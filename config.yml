@@ -1,6 +1,7 @@
 baseURL: https://elaborate-dasik-1ad9bc.netlify.app
 languageCode: en-us
-title: Lingkungan St.Andreas Paroki St.Yosep Purwokerto
+title: Lingkungan St.Andreas 
+Paroki St.Yosep Purwokerto
 theme: PaperMod
 label.icon : "img/logo.svg"
 params:
