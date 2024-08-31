@@ -11,7 +11,7 @@ tags: ["kegiatan", "natal"]
 categories: ["keagamaan"]
 ---
 ## Bersih lingkungan seputar Gereja ##
-bersama umat dan warga lingkungan RT dalam suasana Natal 2023
+bersama umat dan warga lingkungan RT dalam suasana Natal 2023 semakin guyub
 
 ![bersih](/img/bersih17des233.jpg)
 ![bersih 2](/img/bersih17des232.jpg)
