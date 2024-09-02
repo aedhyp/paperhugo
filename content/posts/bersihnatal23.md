@@ -8,7 +8,7 @@ cover:
   caption: 'bersih bersih lingkungan gereja .. semangat !'
 
 tags: ["kegiatan", "natal"]
-categories: ["keagamaan"]
+categories: ["Natal 2023"]
 ---
 ## Bersih lingkungan seputar Gereja ##
 bersama umat dan warga lingkungan RT dalam suasana Natal 2023 semakin guyub
