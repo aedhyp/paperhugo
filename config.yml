@@ -1,12 +1,12 @@
 baseURL: https://paperhugo.vercel.app
 languageCode: en-us
-title: Lingkungan St.Andreas
+title: Info Lingkungan 
 theme: PaperMod
 
 params:
   homeInfoParams:
-    title: "helo"
-    content: "selamat datang di lingkungan St.Andreas Paroki St.Yosep Purwokerto"
+    title: "Lingkungan St. Andreas Paroki St. Yosep Purwokerto"
+    content: ""
   socialIcons:
     - name: instagram
       url: 'https://www.instagram.com/lingkungan_st.andreas_pwt/'  
