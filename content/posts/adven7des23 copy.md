@@ -1,15 +1,12 @@
 ---
-title: "Percakapan Rohani Adven ke 1: Bapa Sang Pencipta Kehidupan"
+title: "Percakapan Rohani Adven ke 2: Bapa Sang Pencipta Kehidupan"
 date: 2023-12-07T20:57:56+07:00
 draft: false
 tags: ["adven", "adven 2023"]
 categories: ["Percakapan Rohani"]
 ---
 
-{{< gallery
-  images="/img/adven7des23.jpg /img/adven7des231.jpg /img/adven7des232.jpg"
-  title="Galeri Gambar Saya"
->}}
+
 
 Gereja Keuskupan Purwokerto dalam bimbingan Roh Kudus bercita-cita menjadi *paguyuban umat Allah yang beriman mendalam, tangguh, dan dialogal serta sejahtera demi terwujudnya persaudaraan sejati, kehidupan bersama yang bermartabat dan berkeadilan, serta keutuhan ciptaan*. Demikianlah visi Keuskupan Purwokerto yang mulai dihidupi sejak medio 2021. Salah satu upaya menghidupi visi tersebut adalah dengan diselenggarakannya program Paroki Mengajar.
 
