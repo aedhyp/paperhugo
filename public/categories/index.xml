@@ -9,10 +9,17 @@
     <lastBuildDate>Sun, 17 Dec 2023 20:57:56 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Keagamaan</title>
-      <link>http://localhost:1313/categories/keagamaan/</link>
+      <title>Natal 2023</title>
+      <link>http://localhost:1313/categories/natal-2023/</link>
       <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/keagamaan/</guid>
+      <guid>http://localhost:1313/categories/natal-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Percakapan Rohani</title>
+      <link>http://localhost:1313/categories/percakapan-rohani/</link>
+      <pubDate>Thu, 07 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>http://localhost:1313/categories/percakapan-rohani/</guid>
       <description></description>
     </item>
   </channel>
