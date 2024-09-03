@@ -79,7 +79,4 @@ Allah melihat segala yang dijadikan-Nya itu, sungguh amat baik. (Kej 1:31)
 
 *Materi tulisan dari buku Percakapan Rohani Masa Adven 2023 yang disusun oleh Keuskupan Purwokerto*
 
-| Judul Gambar 1 | Judul Gambar 2 | Judul Gambar 3 |
-|---|---|---|
-| <img src="img/adven7des23.jpg" alt="Gambar Advent 1"> | <img src="img/adven7des231.jpg" alt="Gambar Advent 2"> | <img src="img/adven7des23.jpg" alt="Gambar Advent 3"> |
 ------------------------------------------------------------------------
