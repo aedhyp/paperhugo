@@ -1,80 +1,73 @@
 ---
-title: "Percakapan Rohani Adven ke 2: Bapa Sang Pencipta Kehidupan"
+title: "Percakapan Rohani Adven ke 2: Aku tahu kepada siapa aku percaya"
 date: 2023-12-07T20:57:56+07:00
 draft: false
 tags: ["adven", "adven 2023"]
 categories: ["Percakapan Rohani"]
 ---
+| | | | |
+|---|---|---|---|
+| ![](/img/adven12des231.jpg) | ![](/img/adven12des232.jpg)  | ![](/img/adven12des233.jpg)  | ![](/img/adven12des23.jpg) |
 
+Tema pertemuan kedua : “Aku tahu kepada siapa aku percaya”
 
+**Tujuan** 
 
-Gereja Keuskupan Purwokerto dalam bimbingan Roh Kudus bercita-cita menjadi *paguyuban umat Allah yang beriman mendalam, tangguh, dan dialogal serta sejahtera demi terwujudnya persaudaraan sejati, kehidupan bersama yang bermartabat dan berkeadilan, serta keutuhan ciptaan*. Demikianlah visi Keuskupan Purwokerto yang mulai dihidupi sejak medio 2021. Salah satu upaya menghidupi visi tersebut adalah dengan diselenggarakannya program Paroki Mengajar.
+-   Menggali lebih dalam pengalaman dan pengetahuan tentang iman kepercayaan akan Yesus Kristus. 
 
-Kurang lebih enam bulan, kita sebagai Gereja Keuskupan Purwokerto bergerak bersama untuk saling belajar tentang dasar iman katolik kita, yaitu Credo. Tentu banyak pengalaman dan pengetahuan yang kita dapatkan bersama selama satu semester ini. Bisa jadi, di suatu tempat terjadi antusiasme di awal saja. Namun, di lain tempat, dijumpai adanya konsistensi umat untuk belajar bersama. Apapun dinamika yang terjadi di lingkungan atau paroki masing-masing, itu adalah hal yang patut disyukuri bersama.
+**Pengantar** 
 
-Pada kesempatan Pendalaman Adven 2023 ini, kami ingin mengajak Anda semua untuk mengendapkan pengalaman dan pengetahuan yang selama ini kita miliki, secara khusus dalam dinamika Paroki Mengajar atau Pendalaman Iman tentang Credo. Pengendapan ini selain untuk sedikit melihat dan mengumpulkan segala hal yang telah kita dapatkan dalam kegiatan Paroki Mengajar, juga sebagai sarana kita mempersiapkan kedatangan Sang Juruselamat, Yesus Kristus. Harapannya, Pendalaman Adven tahun ini membantu kita untuk semakin meletakkan Kristus sebagai pusat dan sumber hidup; tidak hanya berdasarkan pengalaman iman, melainkan juga berdasarkan pengetahuan iman.
+Yesus Kristus adalah pusat dari seluruh misteri keselamatan. Pribadinya menjadi jembatan pemersatu; bangsa Israel dalam Perjanjian Lama dengan kita manusia dalam Perjanjian Baru, kita manusia terpilih dengan Allah Bapa. Percaya kepada Yesus memberikan kekuatan dan kepercayaan diri seutuhnya untuk mewartakan kebenaran dan kasih. Kita percaya kepada Kristus karena kita secara personal telah dipanggil dan diselamatkan. 
 
-Tema **“Aku tahu kepada siapa aku percaya”** yang disampaikan dalam surat yang kedua Rasul Paulus kepada Timotius (2Tim 1:12) menjadi penutup yang manis sekaligus kuat. Kita menutup rangkaian pendalaman Credo dengan ungkapan yang tegas dan meneguhkan. Meskipun misteri Allah Tritunggal Mahakudus tidak akan pernah habis dikupas, tetapi iman kita yang semakin kuat akarnya akan membantu kita menghayati kekatolikan kita dengan penuh kasih dan kaya akan pengharapan.
+Sakramen Baptis menandai kita sebagai anak Allah dan anggota resmi Gereja. Dengan Sakramen Baptis pula, kita dipanggil menjadi saksi akan Yesus Kristus dalam hidup sehari-hari. Menjadi saksi-Nya berarti pula harus ikut memanggul salib. Pertemuan kedua ini mengajak kita untuk semakin memantapkan diri, bahwa kepada Yesus Kristus kita membawa diri kita pada keselamatan abadi. 
 
-Tema pertemuan pertama : **“Bapa Sang Pencipta Kehidupan”**
+**Inspirasi Hidup** 
 
-**Tujuan**
+**MARTIR DARI INDIA** 
 
--   Mengumpulkan pengalaman dipelihara Allah dan memelihara karya ciptaan Allah.
--   Menumbuhkan semangat solidaritas terhadap ciptaan Allah yang lain.
+Devasahayam Pillai lahir pada 23 April 1712 di Nattalam, distrik Kanyakumari, India dengan nama Neelakanta Pillai. Ia lahir dari sebuah keluarga Hindu. Ketika dewasa, ia adalah seorang pejabat istana Mharaja Marthanda Varma Tranvancore. Ketika bekerja di dalam istana, Devasahayam berjumpa dengan seorang komandan angkatan laut dari Belanda. Komandan tersebut bernama Kapten Eustachius de Lannoy. Mereka bersahabat hingga akhirnya Devasahayam tertarik untuk belajar tentang iman Katolik dari tentara Belanda tersebut. 
 
-**Pengantar**
+Persahabatan itu berlanjut hingga Devasahayam dibaptis menjadi seorang katolik. Ia mengambil nama „Lazarus“ sebagai nama baptisnya yang dalam bahasa Malayalam diterjemahkan menjadi „Devasahayam“ yang berarti Tuhan adalah pertolonganku. Ia dibaptis pada tahun 1745 oleh Pastor R. Bouttari Italus SJ. Akan tetapi, setelah ia dibaptis, Devasahayam justru lalu dibenci, bahkan diancam untuk dibunuh. Karena itulah, ia meninggalkan wilayah kerajaan dan tinggal di desa Vadakankulam. 
 
-Memiliki iman berarti memiliki kepercayaan. Syahadat yang kita ucapkan setiap hari Minggu adalah satu contoh bahwa kita memiliki kepercayaan kepada Allah Bapa, Allah Putera, dan Allah Roh Kudus. Dengan mengucapkan Syahadat, kita sadar sungguh bahwa iman yang kita hidupi adalah berasal dari Allah yang mengutus Putera-Nya, Yesus Kristus, untuk menyelamatkan dunia. Karya penyelamatan itu tidak terlepas dari persekutuan dengan Roh Kudus menyertai kita sampai hari ini.
-Karya penyelamatan tidak dapat dipisahkan dari Karya Penciptaan yang dibuat oleh Allah Bapa bersama Allah Putra dan Allah Roh Kudus. Allah menciptakan segala sesuatu baik adanya, seperti yang diceritakan dalam Kitab Kejadian. Allah pun terus mencipta sampai hari ini dan tentu saja, Allah terus memelihara ciptaan-ciptaan-Nya dengan kasih.
-Pada pertemuan Pendalaman Adven yang pertama ini, kita akan merenungkan kasih pemeliharaan Allah Bapa Sang Pencipta. Di samping itu, kita pun diajak untuk menumbuhkan solidaritas terhadap ciptaan lain, di mana kita manusia diberikan tanggung jawab untuk berkuasa atas mereka.
+Meskipun sudah tinggal di desa, hidupnya tetap dihantui oleh berbagai macam ancaman. Ia dituduh menjadi penghasut warga untuk pindah agama menjadi Katolik, difitnah bahwa ia membocorkan rasahia kerjaan kepada pihak Belanda karena sama-sama memeluk agama Katolik. Akibatnya, ia dihukum dan dipenjara, bahkan menerima berbagai siksaan fisik. 
 
-**Inspirasi Hidup**
+Singkat cerita, Devasahayam diasingkan di sebuah tempat di daerah perbatasan Aralvaimozhy dengan cara menunggang kerbau. Pada masa itu, mengasingan dengan cara menunggang kerbau adalah suatu bentuk penghinaan. Tubuhnya dicat dengan bintik merah dan hitam, dicambuk 80 kali setiap hari. Pada setiap lukanya, ditaburkan merica oleh para penyiksa. Pada 14 Januari 1752, Devasahayam menerima pistol dari seorang tentara. Ia lalu memberkati pistol tersebut dan mengembalikannya kepada tentara. Akan tetapi, oleh tentara yang menerima pistol tersebut, Devasahayam ditembak sebanyak lima kali hingga wafat. Pada tanggal 15 Mei 2022 yang lalu, Gereja Katolik secara resmi menganonisasinya menjadi seorang Santo. (dari berbagai sumber). 
 
-KISAH INSPIRATIF PANDAWARA GROUP : LIMA ANAK MUDA BERSIHKAN SUNGAI DENGAN MODAL SENDIRI IDXChannel – Lima sekawan ini kerap membagikan kisah inspiratif kepedulian lingkungan di media sosial. Netizen mengenalnya sebagai Pandawara Group, lima anak muda asal Bandung yang viral karena aksi bersih-bersih sungai. Kelima pemuda ini bernama Rafi, Agung, Gilang, Ikhsan, dan Rifi. Berusia 20 tahunan awal, mereka berhasil menarik perhatian publik berkat konten-konten pembersihan sungai. Bahkan, Pandawara dianggap sekumpulan anak muda inspiratif. Pandawara Group mengunggah kontennya di TikTok dengann tujuan bukan validasi diri, melainkan untuk mengingatkan anak-anak muda dan masyarakat secara luas agar menjaga kebersihan sungai.
+**Inspirasi Kitab Suci** 
 
-Nama Pandawara diambil dari Pandawa Lima, tokoh wayang anak-anak Raja Astina, Prabu Pandu Dewanata. Nama ini dipilih karena jumlah mereka adalah lima orang. Sementara nama “wara” bermakna “kabar baik”. Maka jika diartikan, nama Pandawara berarti lima anak muda ini membawa kabar baik lewat aksi peduli lingkungan ke masyarakat luas.
+PENUHILAH PANGGILAN PELAYANMU (2TIM 1 : 3 – 13) 
 
-Mulanya, Pandawara hanya membersihkan sungai-sungai di sekitar rumah mereka. Kelimanya juga membawa dan menggunakan peralatan sendiri untuk kegiatan bersih-bersih, mulai dari sepatu karet, jaring, dan kantong-kantong plastik untuk sampah. Pandawara lantas membersihkan sungaisungai dari tumpukan sampah. Setelah sungai di sekitar rumah mereka bersih, kegiatan ini merambah ke kecamatan lain di wilayah Kota/Kabupaten Bandung.
-
-Dalam channel YouTube Denny Sumargo, Pandawara mengaku, bahwa kasi bersih-bersih ini mereka biayai sendiri secara patungan. Banjir yang kerap terjadi di sekitar rumah kelima anak muda inilah yang menggerakkan mereka untuk beraksi. Mereka patungan Rp. 400.000,00 per orang untuk membeli kantong sampah, sarung tangan, membiayai tarif angkut ke TPS, menyewa mobil pick up, membayar bensin, dan lain-lain. Dalamsatu hari, biaya operasional aksi bersihbersih bisa mencapai Rp. 800.000,00.
-
-Aksi ini baru dimulai pada tahun 2022. Akan tetapi, dalam satu tahun saja, Pandawara sudah berhasil membersihkan 80 titik kotor di Jawa Barat; mulai dari parit, anak sungai, bahkan sungai-sungai besar. Siapa sangka, saat bersih-bersih pun Pandawara kerap menemui bahaya. Mereka pernah bertemu ular phyton bahkan nyaris hanyut terbawa arus sungai. Saat ini, Pandawara masih aktif membersihkan sungai-sungai. Mereka bahkan digandeng pemerintah untuk membuat kampanye zero waste untuk disebarluaskan dan dilaksanakan di seluruh Indonesia. (https://www.idxchannel.com/inspirator/kisah-inspiratifpandawara-group-lima-anak-muda-bersihkan-sungai-denganmodal-sendiri diakses pada 26 Oktober 2023, pukul 11:47 WIB
-
-**Inspirasi Kitab Suci (KEJ 1: 26 – 2:3)**
-
-ALLAH MENCIPTAKAN LANGIT DAN BUMI SERTA ISINYA
-**1:26** Berfirmanlah Allah: “Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita, supaya mereka berkuasa atas ikan-ikan di laut dan burung-burung di udara dan atas ternak dan atas seluruh bumi dan atas segala binatang melata yang merayap di bumi.”
-**1:27** Maka Allah menciptakan manusia itu menurut gambar-Nya, menurut gambar Allah diciptakan-Nya dia; laki-laki dan perempuan diciptakan-Nya mereka.
-**1:28** Allah memberkati mereka, lalu Allah berfirman kepada mereka: “Beranakcuculah dan bertambah banyak; penuhilah bumi dan taklukanlah itu, berkuasalah atas ikan-ikan di laut dan burung-burung di udara dan atas segala binatang yang merayap di bumi.”
-**1:29** Berfirmanlah Allah: “Lihatlah, Aku memberikan kepadamu segala tumbuh-tumbuhan yang berbiji di seluruh bumi dan segala pohon-pohonan yang buahnya berbiji; itulah akan menjadi makananmu.
-**1:30** Tetapi kepada segala binatang di bumi dan segala burung di udara dan segala yang merayap di bumi, yang bernyawa, Kuberikan segala tumbuh-tumbuhan hijau menjadi makanannya.” Dan jadilah demikian.
-**1:31** Maka Allah melihat segala yang dijadikan-Nya itu, sungguh amat baik. Jadilah petang dan jadilah pagi, itulah hari keenam.
-**2:1** demikianlah diselesaikan langit dan bumi dan segala isinya.
-**2:2** Ketika Allah pada hari ketujuh telah menyelesaikan pekerjaan yang dibuat-Nya itu, berhentilah Ia pada hari ketujuh dari segala pekerjaan yang telah dibuat-Nya itu.
-**2:3** Lalu Allah memberkati hari ketujuh itu dan menguduskannya, karena pada hari itulah Ia berhenti dari segala pekerkaan penciptaan yang telah dibuat-Nya itu.
+**1:3** Aku mengucap syukur kepada Allah, yang kulayani dengan hati nurani yang murni seperti yang dilakukan nenek moyangku. Dan selalu aku mengingat engkau dalam permohonanu, baik siang maupun malam. 
+**1:4** Dan apabila aku terkenang akan air matamu yang kaucurahkan, aku ingin melihat engkau kembali supaya penuhlah kesukaanku. 
+**1:5** Sebab aku teringat akan imanmu yang tulus ikhlas, yaitu iman yang pertama-tama hidup di dalam nenekmu Lois dan di dalam ibumu Eunike dan yang aku yakin hidup juga dalam dirimu. 
+**1:6** Karena itulah kuperingatkan engkau untuk mengobarkan karunia Allah yang ada padamu oleh penumpangan tanganku atasmu. 
+**1:7** Sebab Allah memberikan kepada kita bukan roh ketakutan, melainkan roh yang membangkitkan kekuatan, kasih dan ketertiban. 
+**1:8** Jadi janganlah malu bersaksi tentang Tuhan kita dan janganlah malu karena aku, seorang hukuman karena Dia, melainkan ikutlah menderita bagi Injil-Nya oleh kekuatan Allah. 
+**1:9** Dialah yang menyelamatkan kita dan memanggil kita dengan panggilan kudus, bukan berdasarkan perbuatan kita, melainkan berdasakan maksud dan kasih karunia-Nya sendiri, yang telah dikaruniakan kepada kita dalam Kristus Yesus sebelum permulaan zaman 
+**1:10** dan yang sekarang dinyatakan oleh kedatangan Juruselamat kita Yesus Kristus, yang oleh Injil telah mematahkan kuasa maut dan mendatangkan hidup yang tidak dapat binasa. 
+**1:11** Untuk Injil inilah aku telah ditetapkan sebagai pemberita, sebagai rasul dan sebagai guru. 
+**1:12** Itulah sebabnya aku menderita semuanya ini, tetapi aku tidak malu; karena aku tahu kepada siapa aku percaya dan aku yakin bahwa Dia berkuasa memeliharakan apa yang telah dipercayakan-Nya kepadaku hingga pada hari Tuhan.** 
+1:13** Peganglah segala sesuatu yang telah engkau dengar dari padaku sebagai contoh ajaran yang sehat dan lakukanlah itu dalam iman dan kasih dalam Kristus Yesus. 
 
 **Panduan Percakapan**
 
-Allah Bapa Sang Pencipta adalah Allah yang juga pemelihara kehidupan. Berkat kuasa-Nya pula kita manusia diberikan kekuasaan untuk memelihara dan juga berkuasa atas ciptaan yang lain. Kisah inspiratif dari anak-anak muda di Jawa Barat menjadi inspirasi kita bersama, bagaimana mereka berupaya melaksanakan titah dari Allah Sang Pencipta untuk berkuasa atas ciptaan yang lain. Pada masa penantian ini pula, kita diajak untuk merenungkan kebaikan Tuhan dalam karya ciptaan-Nya. Oleh karena itu, mari kita saling berbagi pengalaman untuk saling meneguhkan iman kita akan Allah Bapa Sang Pencipta.
+Mengimani Yesus Kristus sebagai Juruselamat berarti percaya kepada Yesus Kristus secara total. Artinya berani memikul salib setiap hari hingga berakhir di Golgota kehidupan. Demikian pula yang dialami dan diwartakan oleh Paulus; ia rela menderita dalam tugas pewartaannya tentang Yesus Kristus. Akan tetapi, iman kepercayaan yang kuat membawa dia kepada kekuatan yang tidak takut pada penderitaan di dunia.  Kisah Santo Devasahayam di atas menjadi inspirasi bagi kita untuk berjuang membangun fondasi iman yang kuat. Di samping itu, kisahnya pun menjadi bukti bagi kita, bahwa di zaman modern ini, iman kita tetap diuji. 
+Maka, marilah kita saling berbagi pengalaman untuk mendalami tema Percakapan Rohani kita dan tentunya agar kita saling dikuatkan. 
 
-1.  Membaca dan merenungkan kisah Pandawara, apakah ada pengalaman serupa yang Anda alami atau bahkan Anda lakukan di sekitar lingkungan Anda? Ceritakanlah pengalaman tersebut!
-2.  Merenungkan perikop Kitab Suci di atas, apa yang Anda tangkap dan maknai tentang arti “taklukanlah” dan “berkuasalah” pada ayat 28?
-3.  Menurut Anda, jika Allah menciptakan segala sesuatu baik adanya, bagaimana kita manusia harus bertanggungjawab terhadap bumi yang rusak? Apakah bencana alam itu adalah tanda bahwa Allah marah?
+1.  Apa yang Anda rasakan dan dapatkan dari “Inspirasi Hidup” serta “Inspirasi Kitab Suci” di atas? Adakah pengalaman sulit yang Anda miliki tetapi justru menguatkan dan meneguhkan iman Anda?
+2.  Di tengah modernisasi, bagaimana Anda menghidupi iman Katolik Anda? Apa tantangan yang Anda rasakan?
+3.  Apakah pendalaman Credo yang dilakukan selama ini membantu Anda untuk semakin percaya diri mewartakan Yesus Kristus dalam hidup sehari-hari? Bagaimana cara Anda mewartakan Kristus dalam pekerjaan dan lingkungan sosial? 
 
 **Peneguhan**
 
-*Aku percaya akan Allah, Bapa yang Mahakuasa, pencipta langit dan bumi* adalah frasa pembuka dalam syahadat kita.
-Hal ini menegaskan pada kita bahwa sifat Mahakuasa pada Allah mengalahkan segala kuasa yang ada di dunia ini. Kita sebagai manusia mendapatkan “hibah” kuasa terhadap ciptaan yang lain. Artinya, kita tidak sepenuhnya berkuasa atas mereka. Kita justru dipanggil untuk memelihara ciptaan-ciptaan yang lainnya karena kita lah, manusia, ciptaan tertinggi, yaitu memiliki akal budi, hati nurani, dan kehendak bebas.
+*“Sesungguhnya, orang yang membusungkan dada, tidak lurus hatinya, tetapi orang yang benar itu akan hidup oleh percayanya”,* demikian disampaikan dalam Kitab Habakuk (Hab 2:4). Karena iman kepercayaan yang dimiliki, seseorang akan dibenarkan. Dengan demikian, dapat dikatakan pula, karena kita memiliki kepercayaan yang penuh terhadap Yesus Kristus, Sang Putra, maka hidup kita pun akan dibenarkan. Dalam konteks ini, dapat diartikan pula bahwa kita akan diselamatkan dan mendapatkan jaminan kehidupan kekal. 
 
-Jika dalam beberapa karya ilmiah disampaikan bahwa keadaan bumi ini semakin rusak, dapat dikatakan pula bahwa kita kurang bijaksana dalam menjalankan “hibah” kekuasaan dari Allah. Akan tetapi, kita pun tetap harus percaya, bahwa karena Kemahakuasaan yang Ilahi tersebut, Allah selalu memiliki cara untuk memelihara, bahkan menyembuhkan dan memulihkan ciptaan-Nya.
-Sebagai contoh, Allah menggerakkan lima pemuda di Jawa Barat untuk beraksi dalam membersihkan lingkungannya. 
+Sebagai murid-murid Kristus, kita dipanggil untuk memanggul salib setiap hari. Di zaman modern ini pun, kita tetap dipanggil untuk terus memanggul salib. Di tengah modernitas yang semakin kuat ini, jalan salib kehidupan kita pun semakin penuh liku. Tetapi, inilah “seni menjadi murid- murid Kristus”. Santo Devasahayam menjadi contoh nyata, bahwa di zaman modern ini, perjuangan mewartakan Kristus tetap harus diperjuangkan.
 
-Iman kita pun senantiasa dipelihara oleh Tuhan. Maka, agar kita dapat hidup, bertumbuh, dan setia pada iman kita sampai akhir, kita perlu menyegarkan diri kita dengan Firman Allah dan hidup doa. Kita pun diajak untuk selalu meminta kepada Allah agar menambahkan iman kita.
-Terakhir, kita pun terus diundang untuk berbuat kasih setiap saat. Dengan demikian, iman-harapan-kasih kita sebagai anak-anak Allah akan terus menerus bertumbuh dan akhirnya dapat menumbuhkan sesama.
+Surat Rasul Paulus kepada Timotius pun meneguhkan kita. Bahwa, menderita dalam nama Yesus Kristus adalah jalan kesatuan kepada Allah Tritunggal. Iman memberikan kita kekuatan agar lebih percaya diri, berani, dan tangguh. Semoga dengan upaya kita mendalami Syahadat kepercayaan, Allah berkenan menambahkan iman dalam diri kita. Terutama dalam mempersiapkan kedatangan Yesus Kristus di masa adven ini, semoga iman kita semakin kokoh dan memiliki akar yang mendalam.
 
 **Ayat Emas**
-Allah melihat segala yang dijadikan-Nya itu, sungguh amat baik. (Kej 1:31)
+Itulah sebabnya aku menderita semuanya ini, tetapi aku tidak malu; karena aku tahu kepada siapa aku percaya.(2Tim 1:12a)
 
 *Materi tulisan dari buku Percakapan Rohani Masa Adven 2023 yang disusun oleh Keuskupan Purwokerto*
 

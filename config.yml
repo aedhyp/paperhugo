@@ -9,7 +9,7 @@ params:
   homeInfoParams:
  
     title: "Lingkungan St. Andreas Paroki St. Yosep Purwokerto"
-    content: " selamat datang"
+    content: "Selamat Datang"
   socialIcons:
     - name: instagram
       url: 'https://www.instagram.com/lingkungan_st.andreas_pwt/'  
