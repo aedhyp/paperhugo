@@ -3,10 +3,13 @@ languageCode: en-us
 title: Info Lingkungan 
 theme: PaperMod
 
+  
+
 params:
   homeInfoParams:
+ 
     title: "Lingkungan St. Andreas Paroki St. Yosep Purwokerto"
-    content: ""
+    content: " selamat datang"
   socialIcons:
     - name: instagram
       url: 'https://www.instagram.com/lingkungan_st.andreas_pwt/'  
