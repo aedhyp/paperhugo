@@ -5,7 +5,9 @@ draft: false
 tags: ["adven", "adven 2023"]
 categories: ["Percakapan Rohani"]
 ---
-
+| | | |
+|---|---|---|
+| ![](/img/adven7des231.jpg) | ![](/img/adven7des232.jpg)  | ![](/img/adven7des23.jpg)  |
 
 Gereja Keuskupan Purwokerto dalam bimbingan Roh Kudus bercita-cita menjadi *paguyuban umat Allah yang beriman mendalam, tangguh, dan dialogal serta sejahtera demi terwujudnya persaudaraan sejati, kehidupan bersama yang bermartabat dan berkeadilan, serta keutuhan ciptaan*. Demikianlah visi Keuskupan Purwokerto yang mulai dihidupi sejak medio 2021. Salah satu upaya menghidupi visi tersebut adalah dengan diselenggarakannya program Paroki Mengajar.
 
@@ -77,4 +79,7 @@ Allah melihat segala yang dijadikan-Nya itu, sungguh amat baik. (Kej 1:31)
 
 *Materi tulisan dari buku Percakapan Rohani Masa Adven 2023 yang disusun oleh Keuskupan Purwokerto*
 
+| Judul Gambar 1 | Judul Gambar 2 | Judul Gambar 3 |
+|---|---|---|
+| <img src="img/adven7des23.jpg" alt="Gambar Advent 1"> | <img src="img/adven7des231.jpg" alt="Gambar Advent 2"> | <img src="img/adven7des23.jpg" alt="Gambar Advent 3"> |
 ------------------------------------------------------------------------
