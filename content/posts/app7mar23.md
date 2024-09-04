@@ -9,8 +9,6 @@ categories: ["Pendalaman Iman"]
 |---|---|---|---|---|---|---|
 | ![](/img/app7mar23.jpg) | ![](/img/app7mar231.jpg)  | ![](/img/app7mar232.jpg)  | ![](/img/app7mar233.jpg) | ![](/img/app7mar234.jpg) | ![](/img/app7mar235.jpg) | ![](/img/app7mar236.jpg) |
 
-PERTEMUAN II “BERJALAN BERSAMA DALAM KRISTUS” 
-
 **Pengantar** 
 
 Semangat “Berjalan Bersama dalam Kristus” merupakan buah dari permenungan bahwa perjalanan sinode Diosesan Keuskupan Purwokerto adalah sebuah Gerakan dari seluruh umat untuk berjalan bersama sebagai saudara seiman dalam Kristus. Santo Paulus dalam suratnya kepada jemaat di Kolese mengajarkan; “Hendaklah hidupmu tetap di dalam Dia. Hendaklah kamu berakar di dalam Dia dan di bangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan syukur.” 

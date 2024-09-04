@@ -5,8 +5,9 @@ draft: false
 tags: ["app", "app 2023"]
 categories: ["Pendalaman Iman"]
 ---
-
-PERTEMUAN III “BERJALAN BERSAMA DALAM KRISTUS MEWUJUDKAN BUMI RUMAH KITA BERSAMA”
+| | | | | | |
+|---|---|---|---|---|---|
+| ![](/img/app14mar23.jpg) | ![](/img/app14mar231.jpg)  | ![](/img/app14mar232.jpg)  | ![](/img/app14mar233.jpg) | ![](/img/app14mar234.jpg) | ![](/img/app14mar235.jpg) |
 
 **Pengantar** 
 
