@@ -1,6 +1,6 @@
 ---
 title: "Percakapan Rohani Adven ke 2: Aku tahu kepada siapa aku percaya"
-date: 2023-12-07T20:57:56+07:00
+date: 2023-12-12T20:57:56+07:00
 draft: false
 tags: ["adven", "adven 2023"]
 categories: ["Percakapan Rohani"]
