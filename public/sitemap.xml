@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/bersihnatal23/</loc>
-    <lastmod>2023-12-17T20:57:56+07:00</lastmod>
+    <loc>http://localhost:1313/tags/adven/</loc>
+    <lastmod>2023-12-19T20:57:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/adven-2023/</loc>
+    <lastmod>2023-12-19T20:57:56+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-12-17T20:57:56+07:00</lastmod>
+    <lastmod>2023-12-19T20:57:56+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2023-12-19T20:57:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/percakapan-rohani/</loc>
+    <lastmod>2023-12-19T20:57:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/adven19des23/</loc>
+    <lastmod>2023-12-19T20:57:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-12-19T20:57:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-12-19T20:57:56+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bersihnatal23/</loc>
     <lastmod>2023-12-17T20:57:56+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/kegiatan/</loc>
@@ -19,21 +37,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/natal-2023/</loc>
     <lastmod>2023-12-17T20:57:56+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-12-17T20:57:56+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-12-17T20:57:56+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/adven/</loc>
-    <lastmod>2023-12-12T20:57:56+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/adven-2023/</loc>
-    <lastmod>2023-12-12T20:57:56+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/percakapan-rohani/</loc>
-    <lastmod>2023-12-12T20:57:56+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/adven12des23/</loc>
     <lastmod>2023-12-12T20:57:56+07:00</lastmod>
