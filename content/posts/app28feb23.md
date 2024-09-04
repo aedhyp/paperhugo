@@ -5,6 +5,9 @@ draft: false
 tags: ["app", "app 2023"]
 categories: ["Pendalaman Iman"]
 ---
+| | | | | | 
+|---|---|---|---|---|
+| ![](/img/app28feb23.jpg) | ![](/img/app28feb231.jpg)  | ![](/img/app28feb232.jpg)  | ![](/img/app28feb233.jpg) | ![](/img/app28feb234.jpg) | 
 PERTEMUAN I MEWUJUDKAN PERTOBATAN SEJATI
 
 Masa Prapaskah merupakan masa pertobatan yang mengajak kita dari pertobatan hati menuju gerak pertobatan praksis lahiriah baik yang dilaksanakan secara pribadi maupun bersama dalam keluarga, komunitas basis, lingkungan, paroki dan keuskupan. 
