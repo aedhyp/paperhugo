@@ -5,9 +5,9 @@ draft: false
 tags: ["app", "app 2023"]
 categories: ["Pendalaman Iman"]
 ---
-| | | | | | |
-|---|---|---|---|---|---|
-| ![](/img/app14mar23.jpg) | ![](/img/app14mar231.jpg)  | ![](/img/app14mar232.jpg)  | ![](/img/app14mar233.jpg) | ![](/img/app14mar234.jpg) | ![](/img/app14mar235.jpg) |
+| | | | | | 
+|---|---|---|---|---|
+| ![](/img/app14mar23.jpg) | ![](/img/app14mar231.jpg)  | ![](/img/app14mar232.jpg)  | ![](/img/app14mar233.jpg) | ![](/img/app14mar234.jpg) |
 
 **Pengantar** 
 
