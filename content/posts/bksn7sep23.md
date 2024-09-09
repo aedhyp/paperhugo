@@ -1,5 +1,5 @@
 ---
-title: "Pendalaman BKSN 2023: Allah Sumber Kasih dan Keselamatan"
+title: "Pendalaman BKSN 2023 ke 1: Allah Sumber Kasih dan Keselamatan"
 date: 2023-09-07T20:57:56+07:00
 draft: false
 tags: ["bksn", "bksn 2023"]
