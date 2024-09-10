@@ -5,6 +5,9 @@ draft: false
 tags: ["bksn", "bksn 2023"]
 categories: ["Pendalaman Iman"]
 ---
+| | | | | | |
+|---|---|---|---|---|---|---|
+| ![](/img/bksn7sep23.jpg) | ![](/img/bksn7sep231.jpg) |![](/img/bksn7sep232.jpg) | ![](/img/bksn7sep233.jpg) | ![](/img/bksn7sep234.jpg) | ![](/img/bksn7sep235.jpg) | ![](/img/bksn7sep236.jpg) |
 
 Tema besar Bulan Kitab Suci Nasional (BKSN) tahun 2023 adalah **Allah Sumber Kasih dan Keselamatan**. Pasca Pandemi Covid-19, ketika aktivitas dan perjumpaan fisik telah kembali normal, banyak orang tetap mempertahankan kebiasaan hidup selama pandemi, terutama dalam hal pemanfaatan media komunikasi. Kita mengalami apa yang menjadi kekhawatiran Paus Fransiskus dalam Laudato Si' (Terpujilah Engkau) bagaimana dunia digital "...kadang-kadang justru menghalangi kita untuk kontak langsung dengan kesusahan, kecemasan, dan sukacita orang lain dan kompleksitas pengalaman pribadinya" (No. 47).
 
