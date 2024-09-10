@@ -5,7 +5,9 @@ draft: false
 tags: ["app", "app 2023"]
 categories: ["Pendalaman Iman"]
 ---
-
+| | | | | | 
+|---|---|---|---|---|
+| ![](/img/app28mar23.jpg) | ![](/img/app28mar231.jpg) | ![](/img/app28mar232.jpg) | ![](/img/app28mar234.jpg) | ![](/img/app28mar235.jpg) |
 
 Keadilan Allah dalam Kitab Taurat terlihat dalam keberpihakanNya kepada kaum yang lemah dan kecil (bdk. Kel. 20:22-23:33). Seperti kepada para budak (kuli) diberi hak meski terbatas (bdk. Kel.21:1-11). Pada hari Sabat hak istirahat bekerja juga diberi kepada kaum kecil dan ternak (bdk. Kel.23:12). Hak-hak orang asing, anak yatim, dan janda juga tidak mereka lupakan. Umat Israel juga dipanggil untuk membangun suatu persaudaraan di mana ada kemerdekaan dan pengakuan hak-hak sesama (Ul. 22:1-4). Oleh karena itu, persamaan martabat semua manusia dan tujuan untuk kesejahteraan bersama, mengarahkan keadilan sosial untuk memberi perhatian kepada mereka yang miskin dan membutuhkan bantuan (lih. Katekismus Gereja Katolik, 1928). Paus Fransiskus mengingatkan kita, seandainya Allah membatasi Diri-Nya hanya pada keadilan, Ia akan berhenti menjadi Allah, dan sebaliknya Ia menjadi seperti manusia, yang hanya minta agar hukum dihormati. Oleh karena itu hanya keadilan tidaklah cukup. Pengalaman menunjukkan bahwa tuntutan pada keadilan saja akan mengakibatkan kehancuran. Itulah sebabnya Allah melangkah melampaui keadilan dengan belas kasih dan pengampunan-Nya (bdk. Misericordia Vultus (Wajah Kerahiman/MV, 2013, 21).
 
