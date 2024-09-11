@@ -1,5 +1,5 @@
 ---
-title: "Penyegaran Rohani dan Doa Rosario Kebangsaan 2023"
+title: "Penyegaran Rohani dan Doa Rosario Kebangsaan 2023 ke 2"
 date: 2023-08-25T20:57:56+07:00
 draft: false
 tags: ["doa rosario", "kebangsaan 2023"]
