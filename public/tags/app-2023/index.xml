@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>App 2023 on Info Kegiatan Lingkungan</title>
-    <link>//localhost:1313/.app/tags/app-2023/</link>
+    <link>http://localhost:1313/tags/app-2023/</link>
     <description>Recent content in App 2023 on Info Kegiatan Lingkungan</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2023 20:57:56 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/.app/tags/app-2023/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/app-2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pendalaman Iman APP ke 5: Semakin Peduli Pada Jeritan Bumi Dan Sesama Yang Menderita</title>
-      <link>//localhost:1313/.app/posts/app28mar23/</link>
+      <link>http://localhost:1313/posts/app28mar23/</link>
       <pubDate>Tue, 28 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>//localhost:1313/.app/posts/app28mar23/</guid>
+      <guid>http://localhost:1313/posts/app28mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -25,15 +25,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar235.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar235.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -42,9 +42,9 @@
     </item>
     <item>
       <title>Pendalaman Iman APP ke 4: Menjaga Keutuhan Ciptaan Sebagai Panggilan Orang Beriman</title>
-      <link>//localhost:1313/.app/posts/app21mar23/</link>
+      <link>http://localhost:1313/posts/app21mar23/</link>
       <pubDate>Tue, 21 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>//localhost:1313/.app/posts/app21mar23/</guid>
+      <guid>http://localhost:1313/posts/app21mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -57,15 +57,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar236.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar236.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar237.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar237.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar238.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar238.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar239.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar239.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -74,9 +74,9 @@
     </item>
     <item>
       <title>Pendalaman Iman APP ke 3: Berjalan Bersama dalam Kristus Mewujudkan Bumi Rumah Kita Bersama</title>
-      <link>//localhost:1313/.app/posts/app14mar23/</link>
+      <link>http://localhost:1313/posts/app14mar23/</link>
       <pubDate>Tue, 14 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>//localhost:1313/.app/posts/app14mar23/</guid>
+      <guid>http://localhost:1313/posts/app14mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -89,15 +89,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -106,9 +106,9 @@
     </item>
     <item>
       <title>Pendalaman Iman APP ke 2: Berjalan Bersama Dalam Kristus</title>
-      <link>//localhost:1313/.app/posts/app7mar23/</link>
+      <link>http://localhost:1313/posts/app7mar23/</link>
       <pubDate>Tue, 07 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>//localhost:1313/.app/posts/app7mar23/</guid>
+      <guid>http://localhost:1313/posts/app7mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -123,19 +123,19 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar235.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar235.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar236.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar236.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -144,9 +144,9 @@
     </item>
     <item>
       <title>Pendalaman Iman APP ke 1: Mewujudkan Pertobatan Sejati</title>
-      <link>//localhost:1313/.app/posts/app28feb23/</link>
+      <link>http://localhost:1313/posts/app28feb23/</link>
       <pubDate>Tue, 28 Feb 2023 20:57:56 +0700</pubDate>
-      <guid>//localhost:1313/.app/posts/app28feb23/</guid>
+      <guid>http://localhost:1313/posts/app28feb23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -159,15 +159,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
