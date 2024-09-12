@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Info Kegiatan Lingkungan</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/.app/</link>
     <description>Recent content on Info Kegiatan Lingkungan</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Dec 2023 20:57:56 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Percakapan Rohani Adven ke 3: Hidup dalam Roh Kudus</title>
-      <link>http://localhost:1313/posts/adven19des23/</link>
+      <link>//localhost:1313/.app/posts/adven19des23/</link>
       <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/adven19des23/</guid>
+      <guid>//localhost:1313/.app/posts/adven19des23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -26,17 +26,17 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven19des231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven19des232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven19des233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven19des23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven19des234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des235.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven19des235.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>Bersih bersih gereja dan lingkungan menyambut Natal 2023</title>
-      <link>http://localhost:1313/posts/bersihnatal23/</link>
+      <link>//localhost:1313/.app/posts/bersihnatal23/</link>
       <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bersihnatal23/</guid>
+      <guid>//localhost:1313/.app/posts/bersihnatal23/</guid>
       <description>&lt;p&gt;Umat paroki  dan warga lingkungan kompak dan semangat,  kerja bakti membersihkan lingkungan seputar gereja.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -60,13 +60,13 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bersih17des231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bersih17des231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bersih17des233.jpg&#34; alt=&#34;bersih 2&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bersih17des233.jpg&#34; alt=&#34;bersih 2&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bersih17des23.jpg&#34; alt=&#34;bersih&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bersih17des23.jpg&#34; alt=&#34;bersih&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bersih17des232.jpg&#34; alt=&#34;bersih&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bersih17des232.jpg&#34; alt=&#34;bersih&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -74,9 +74,9 @@
     </item>
     <item>
       <title>Percakapan Rohani Adven ke 2: Aku tahu kepada siapa aku percaya</title>
-      <link>http://localhost:1313/posts/adven12des23/</link>
+      <link>//localhost:1313/.app/posts/adven12des23/</link>
       <pubDate>Tue, 12 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/adven12des23/</guid>
+      <guid>//localhost:1313/.app/posts/adven12des23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -88,13 +88,13 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven12des231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven12des231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven12des232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven12des232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven12des233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven12des233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven12des23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven12des23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -103,9 +103,9 @@
     </item>
     <item>
       <title>Percakapan Rohani Adven ke 1: Bapa Sang Pencipta Kehidupan</title>
-      <link>http://localhost:1313/posts/adven7des23/</link>
+      <link>//localhost:1313/.app/posts/adven7des23/</link>
       <pubDate>Thu, 07 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/adven7des23/</guid>
+      <guid>//localhost:1313/.app/posts/adven7des23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -116,11 +116,11 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven7des231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven7des231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven7des232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven7des232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven7des23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/adven7des23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -129,9 +129,9 @@
     </item>
     <item>
       <title>Pendalaman BKSN 2023 ke 4: Kasih Allah Mempersatukan</title>
-      <link>http://localhost:1313/posts/bksn26sep23/</link>
+      <link>//localhost:1313/.app/posts/bksn26sep23/</link>
       <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bksn26sep23/</guid>
+      <guid>//localhost:1313/.app/posts/bksn26sep23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -144,15 +144,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn26sep23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn26sep231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn26sep232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn26sep233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn26sep234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -161,9 +161,9 @@
     </item>
     <item>
       <title>Pendalaman BKSN 2023 ke 3: Kasih Allah Menyelamatkan</title>
-      <link>http://localhost:1313/posts/bksn19sep23/</link>
+      <link>//localhost:1313/.app/posts/bksn19sep23/</link>
       <pubDate>Tue, 19 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bksn19sep23/</guid>
+      <guid>//localhost:1313/.app/posts/bksn19sep23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -172,7 +172,7 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn19sep23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn19sep23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -184,9 +184,9 @@
     </item>
     <item>
       <title>Pendalaman BKSN 2023 ke 2: Kasih Allah Menggerakkan Pertobatan.</title>
-      <link>http://localhost:1313/posts/bksn15sep23/</link>
+      <link>//localhost:1313/.app/posts/bksn15sep23/</link>
       <pubDate>Fri, 15 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bksn15sep23/</guid>
+      <guid>//localhost:1313/.app/posts/bksn15sep23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -199,15 +199,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn15sep23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn15sep231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn15sep232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn15sep233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn15sep234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -234,9 +234,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman BKSN 2023 ke 1: Allah Sumber Kasih dan Keselamatan</title>
-      <link>http://localhost:1313/posts/bksn7sep23/</link>
+      <link>//localhost:1313/.app/posts/bksn7sep23/</link>
       <pubDate>Thu, 07 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bksn7sep23/</guid>
+      <guid>//localhost:1313/.app/posts/bksn7sep23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -251,19 +251,19 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn7sep23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn7sep231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn7sep232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn7sep233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn7sep234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep235.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn7sep235.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep236.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bksn7sep236.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -272,9 +272,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hias Altar</title>
-      <link>http://localhost:1313/posts/hias2sep23/</link>
+      <link>//localhost:1313/.app/posts/hias2sep23/</link>
       <pubDate>Sat, 02 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hias2sep23/</guid>
+      <guid>//localhost:1313/.app/posts/hias2sep23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -295,31 +295,31 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep235.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep235.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep236.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep236.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep237.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep237.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep238.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep238.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep239.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep239.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep2310.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep2310.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep2311.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep2311.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep2312.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/hias2sep2312.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -327,9 +327,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Penyegaran Rohani dan Doa Rosario Kebangsaan 2023 ke 2</title>
-      <link>http://localhost:1313/posts/bangsa25agt23/</link>
+      <link>//localhost:1313/.app/posts/bangsa25agt23/</link>
       <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bangsa25agt23/</guid>
+      <guid>//localhost:1313/.app/posts/bangsa25agt23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -341,13 +341,13 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa25agt23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bangsa25agt23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa25agt231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bangsa25agt231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa25agt232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bangsa25agt232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa25agt233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bangsa25agt233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -356,9 +356,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Penyegaran Rohani dan Doa Rosario Kebangsaan 2023 ke 1</title>
-      <link>http://localhost:1313/posts/bangsa18agt23/</link>
+      <link>//localhost:1313/.app/posts/bangsa18agt23/</link>
       <pubDate>Fri, 18 Aug 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bangsa18agt23/</guid>
+      <guid>//localhost:1313/.app/posts/bangsa18agt23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -369,11 +369,11 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa18agt23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bangsa18agt23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa18agt231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bangsa18agt231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa18agt232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/bangsa18agt232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -382,9 +382,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman Iman APP ke 5: Semakin Peduli Pada Jeritan Bumi Dan Sesama Yang Menderita</title>
-      <link>http://localhost:1313/posts/app28mar23/</link>
+      <link>//localhost:1313/.app/posts/app28mar23/</link>
       <pubDate>Tue, 28 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app28mar23/</guid>
+      <guid>//localhost:1313/.app/posts/app28mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -397,15 +397,15 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar235.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28mar235.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -414,9 +414,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman Iman APP ke 4: Menjaga Keutuhan Ciptaan Sebagai Panggilan Orang Beriman</title>
-      <link>http://localhost:1313/posts/app21mar23/</link>
+      <link>//localhost:1313/.app/posts/app21mar23/</link>
       <pubDate>Tue, 21 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app21mar23/</guid>
+      <guid>//localhost:1313/.app/posts/app21mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -429,15 +429,15 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar236.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar236.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar237.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar237.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar238.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar238.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar239.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app21mar239.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -446,9 +446,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman Iman APP ke 3: Berjalan Bersama dalam Kristus Mewujudkan Bumi Rumah Kita Bersama</title>
-      <link>http://localhost:1313/posts/app14mar23/</link>
+      <link>//localhost:1313/.app/posts/app14mar23/</link>
       <pubDate>Tue, 14 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app14mar23/</guid>
+      <guid>//localhost:1313/.app/posts/app14mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -461,15 +461,15 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app14mar234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -478,9 +478,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman Iman APP ke 2: Berjalan Bersama Dalam Kristus</title>
-      <link>http://localhost:1313/posts/app7mar23/</link>
+      <link>//localhost:1313/.app/posts/app7mar23/</link>
       <pubDate>Tue, 07 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app7mar23/</guid>
+      <guid>//localhost:1313/.app/posts/app7mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -495,19 +495,19 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar235.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar235.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar236.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app7mar236.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -516,9 +516,9 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman Iman APP ke 1: Mewujudkan Pertobatan Sejati</title>
-      <link>http://localhost:1313/posts/app28feb23/</link>
+      <link>//localhost:1313/.app/posts/app28feb23/</link>
       <pubDate>Tue, 28 Feb 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app28feb23/</guid>
+      <guid>//localhost:1313/.app/posts/app28feb23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -531,15 +531,15 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb23.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb23.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb231.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb231.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb232.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb232.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb233.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb233.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb234.jpg&#34; alt=&#34;&#34;  /&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/app28feb234.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -551,10 +551,10 @@ Pada Pasca pandemic Covid-19, pertobatan kita juga dibangun dengan semakin tekun
     </item>
     <item>
       <title>Sekilas Lingkungan St. Andreas</title>
-      <link>http://localhost:1313/about/</link>
+      <link>//localhost:1313/.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/logo.svg&#34; alt=&#34;&#34;  /&gt;
+      <guid>//localhost:1313/.app/about/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/.app/img/logo.svg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Sejarah Lingkungan St. Andreas&lt;/p&gt;
 &lt;p&gt;Tahun 1990 adalah awal berdirinya lingkungan St. Andreas. Sebelum tahun 1990, Sebagian warga Katolik yang berdiam di daerah Sarwodadi dan Pancurawis pada mulanya bergabung dengan lingkungan St.Petrus (wilayah Berkoh). Seiring berjalannya waktu, warga Katolik yang di daerah Berkoh dan sekitarnya semakin banyak. Sehingga dirasakan perlu dibentuk lingkungan baru ( pemekaran lingkungan). Bp. Ibrahim ketika itu ditemui Bp.Gondo dari Dewan Paroki untuk ikut pertemuan di gereja. Pada pertemuan itu, Bp. Ibrahim ditunjuk sebagai ketua lingkungan baru untuk daerah Sarwodadi dan Pancurawis. Bp Ibrahim lalu menemui Ibu Tuti untuk bersama sama mendata siapa saja warga yang beragama Katolik. Dari pendataan diketahui ada 47 KK. Kemudian diadakan pertemuan kecil, dihadiri Bp. Ibrahim, Ibu Tuti dan Ibu Caroline untuk menentukan nama lingkungan baru. Akhirnya disepakati pakai nama lingkungan St.Andreas. Bp. Ibrahim sebagai ketua lingkungan,  Ibu Tuti ditunjuk sebagai sekretaris lingkungan, dan ibu Agus Sugiarto untuk mengurusi liturgi. Pelantikan pengurus diadakan di rumah Bp. Agus Sugiarto, dipimpin oleh Romo Susanto Adi dan Romo Bekti.  Ketua lingkungan berikutnya dipegang oleh Bp. Agus Sugiarto, Bp. Darsono, Bp. Pramono dan Bp. Sudjarwo, Bp.Edhy.&lt;/p&gt;</description>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Info Kegiatan Lingkungan</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>//localhost:1313/.app/categories/</link>
     <description>Recent content in Categories on Info Kegiatan Lingkungan</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Dec 2023 20:57:56 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Percakapan Rohani</title>
-      <link>http://localhost:1313/categories/percakapan-rohani/</link>
+      <link>//localhost:1313/.app/categories/percakapan-rohani/</link>
       <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/percakapan-rohani/</guid>
+      <guid>//localhost:1313/.app/categories/percakapan-rohani/</guid>
       <description></description>
     </item>
     <item>
       <title>Natal 2023</title>
-      <link>http://localhost:1313/categories/natal-2023/</link>
+      <link>//localhost:1313/.app/categories/natal-2023/</link>
       <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/natal-2023/</guid>
+      <guid>//localhost:1313/.app/categories/natal-2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Pendalaman Iman</title>
-      <link>http://localhost:1313/categories/pendalaman-iman/</link>
+      <link>//localhost:1313/.app/categories/pendalaman-iman/</link>
       <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/pendalaman-iman/</guid>
+      <guid>//localhost:1313/.app/categories/pendalaman-iman/</guid>
       <description></description>
     </item>
     <item>
       <title>Hias Altar</title>
-      <link>http://localhost:1313/categories/hias-altar/</link>
+      <link>//localhost:1313/.app/categories/hias-altar/</link>
       <pubDate>Sat, 02 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/hias-altar/</guid>
+      <guid>//localhost:1313/.app/categories/hias-altar/</guid>
       <description></description>
     </item>
     <item>
       <title>Penyegaran Rohani</title>
-      <link>http://localhost:1313/categories/penyegaran-rohani/</link>
+      <link>//localhost:1313/.app/categories/penyegaran-rohani/</link>
       <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/penyegaran-rohani/</guid>
+      <guid>//localhost:1313/.app/categories/penyegaran-rohani/</guid>
       <description></description>
     </item>
   </channel>
