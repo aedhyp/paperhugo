@@ -22,4 +22,3 @@ TIMUR : Daerah Sarwoendah dan Sarwodadi ke utara sepanjang sisi barat jalan Jend
 UTARA: Dari Pertigaan Cherry ke barat sepanjang sisi selatan Jalan Pramuka sampai perempatan DI.Panjaitan-Pramuka (Lingkungan Thomas).
 
  ![](/img/map.jpeg) 
-
