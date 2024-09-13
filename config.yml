@@ -30,7 +30,7 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: archives
+    - identifier: Posts
       name: Posts
       url: /archives/
       weight: 30
