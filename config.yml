@@ -30,8 +30,8 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: archivesss
-      name: Posts
+    - identifier: archives
+      name: Archives
       url: /archives/
       weight: 30
     - identifier: about
