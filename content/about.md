@@ -13,12 +13,12 @@ Tahun 1990 adalah awal berdirinya lingkungan St. Andreas. Sebelum tahun 1990, Se
 
 BATAS WILAYAH LINGKUNGAN SANTO ANDREAS
 
-BARAT: Sepanjang sisi timur jalan DI.Panjaitan mulai dari perempatan DI.Panjaitan-Pramuka ke selatan sampai perempatan DI.Panjaitan-Gerilya (Lingkungan Yohanes)
+BARAT: Sepanjang sisi timur jalan DI.Panjaitan mulai dari perempatan DI.Panjaitan-Pramuka ke selatan sampai perempatan DI.Panjaitan-Gerilya.
 
-SELATAN: Dari perempatan DI.Panjaitan-Gerilya ke timur sepanjang sisi utara Jalan Gerilya sampai perempatan Pancurawis, ke utara sepanjang jalan Pancurawis (Lingkungan Paulus)
+SELATAN: Dari perempatan DI.Panjaitan-Gerilya ke timur sepanjang sisi utara Jalan Gerilya sampai perempatan Pancurawis, ke utara sepanjang jalan Pancurawis.
 
-TIMUR : Daerah Sarwoendah dan Sarwodadi ke utara sepanjang sisi barat jalan Jend.Soedirman Timur sampai pertigaan Cherry (Lingkungan Petrus)
+TIMUR : Daerah Sarwoendah dan Sarwodadi ke utara sepanjang sisi barat jalan Jend.Soedirman Timur sampai pertigaan Cherry.
 
-UTARA: Dari Pertigaan Cherry ke barat sepanjang sisi selatan Jalan Pramuka sampai perempatan DI.Panjaitan-Pramuka (Lingkungan Thomas).
+UTARA: Dari Pertigaan Cherry ke barat sepanjang sisi selatan Jalan Pramuka sampai perempatan DI.Panjaitan-Pramuka.
 
  ![](/img/map.jpeg) 
