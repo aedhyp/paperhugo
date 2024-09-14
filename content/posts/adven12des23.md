@@ -7,7 +7,7 @@ categories: ["Percakapan Rohani"]
 ---
 | | | | |
 |---|---|---|---|
-| ![](/img/adven12des231.jpg) | ![](/img/adven12des232.jpg)  | ![](/img/adven12des233.jpg)  | ![](/img/adven12des23.jpg) |
+| ![](/img/adven12des231.avif) | ![](/img/adven12des232.avif)  | ![](/img/adven12des233.avif)  | ![](/img/adven12des23.avif) |
 
 Tema pertemuan kedua : “Aku tahu kepada siapa aku percaya”
 

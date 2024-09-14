@@ -7,7 +7,7 @@ categories: ["Penyegaran Rohani"]
 ---
 | | | |
 |---|---|---| 
-| ![](/img/bangsa18agt23.jpg) | ![](/img/bangsa18agt231.jpg) | ![](/img/bangsa18agt232.jpg) |
+| ![](/img/bangsa18agt23.avif) | ![](/img/bangsa18agt231.avif) | ![](/img/bangsa18agt232.avif) |
 
 
 Sesuai dengan Arah Haluan Keuskupan Purwokerto 2022-2035, Gereja. Keuskupan Purwokerto menetapkan bulan Agustus sebagai Bulan Kebangsaan. Pada pertemuan yang pertama ini, kita hendak merefleksikan mengapa kita sebagai orang Katolik musti ikut terlibat dalam dalam hidup di tengah masyarakat. kita diajak untuk merefleksikan panggilan kita sebagai kaum awam Atas dasar Sakramen Baptis dan Krisma serta Sakramen Ekaristi, kita sebagai kaum awam dipanggil untuk menjalankan 5 tugas Gereja: Liturgia ( liturgi /pengudusan), Koinonia ( persekutuan/paguyuban ), Kerygma ( pewartaan) dan Diakonia (pelayanan), martiria ( kesaksian ). Dengan kata lain setiap umat beriman dipanggil untuk terlibat dalam hidup menggereja dan bermasyarakat. Hal ini ditegaskan pula dalam Lumen Gentium artikel 31 (LG 31), "....kaum awam wajib mencari kerajaan Allah, dengan mengurusi hal-hal yang fana dan mengaturnya seturut kehendak Allah. Mereka hidup dalam dunia, artinya: menjalankan segala macam tugas dan pekerjaan duniawi, dan berada di tengah kenyataan biasa hidup berkeluarga dan sosial"

@@ -7,7 +7,7 @@ categories: ["Pendalaman Iman"]
 ---
 | | | | | | 
 |---|---|---|---|---|
-| ![](/img/bksn15sep23.jpg) | ![](/img/bksn15sep231.jpg) | ![](/img/bksn15sep232.jpg) | ![](/img/bksn15sep233.jpg) | ![](/img/bksn15sep234.jpg) |
+| ![](/img/bksn15sep23.avif) | ![](/img/bksn15sep231.avif) | ![](/img/bksn15sep232.avif) | ![](/img/bksn15sep233.avif) | ![](/img/bksn15sep234.avif) |
 
 Pengalaman selama masa pandemi dan berbagai pengalaman hidup yang
 menyebabkan kesedihan, ketakutan, kecemasan, bahkan kematian menjadi

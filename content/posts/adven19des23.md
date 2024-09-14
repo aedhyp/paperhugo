@@ -7,7 +7,7 @@ categories: ["Percakapan Rohani"]
 ---
 | | | | | |
 |---|---|---|---|---|---|
-| ![](/img/adven19des231.jpg) | ![](/img/adven19des232.jpg)  | ![](/img/adven19des233.jpg)  | ![](/img/adven19des23.jpg) | ![](/img/adven19des234.jpg) | ![](/img/adven19des235.jpg) |
+| ![](/img/adven19des231.avif) | ![](/img/adven19des232.avif)  | ![](/img/adven19des233.avif)  | ![](/img/adven19des23.avif) | ![](/img/adven19des234.avif) | ![](/img/adven19des235.avif) |
 
 Tema pertemuan ketiga :“Hidup dalam Roh Kudus” 
 

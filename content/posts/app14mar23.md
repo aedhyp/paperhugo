@@ -7,7 +7,7 @@ categories: ["Pendalaman Iman"]
 ---
 | | | | | | 
 |---|---|---|---|---|
-| ![](/img/app14mar23.jpg) | ![](/img/app14mar231.jpg)  | ![](/img/app14mar232.jpg)  | ![](/img/app14mar233.jpg) | ![](/img/app14mar234.jpg) |
+| ![](/img/app14mar23.avif) | ![](/img/app14mar231.avif)  | ![](/img/app14mar232.avif)  | ![](/img/app14mar233.avif) | ![](/img/app14mar234.avif) |
 
 **Pengantar** 
 

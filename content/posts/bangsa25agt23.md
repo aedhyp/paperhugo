@@ -7,7 +7,7 @@ categories: ["Penyegaran Rohani"]
 ---
 | | | | |
 |---|---|---|---|
-| ![](/img/bangsa25agt23.jpg) | ![](/img/bangsa25agt231.jpg) | ![](/img/bangsa25agt232.jpg) | ![](/img/bangsa25agt233.jpg) |
+| ![](/img/bangsa25agt23.avif) | ![](/img/bangsa25agt231.avif) | ![](/img/bangsa25agt232.avif) | ![](/img/bangsa25agt233.avif) |
 
 Pada pertemuan ke 2 ini , kita diajak untuk merefleksikan manfaat kehadiran media sosial (medsos) di tengah masyarakat, khususnya dalam menghadapi Pemilu Serentak tahun 2024. Medsos memberi banyak manfaat untuk menunjang kehidupan kita. Disisi lain juga memberikan dampak buruk, memecah belah bangsa, bahkan pidana bila salah dalam menggunakan. Dalam konteks Pemilu medsos menjadi gerbang utama informasi untuk mendapatkan pemimpin yang akan kita pilih. 
  

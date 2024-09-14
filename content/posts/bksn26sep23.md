@@ -7,7 +7,7 @@ categories: ["Pendalaman Iman"]
 ---
 | | | | | |
 |---|---|---|---|---|
-| ![](/img/bksn26sep23.jpg) | ![](/img/bksn26sep231.jpg) | ![](/img/bksn26sep232.jpg) | ![](/img/bksn26sep233.jpg) | ![](/img/bksn26sep234.jpg) |
+| ![](/img/bksn26sep23.avif) | ![](/img/bksn26sep231.avif) | ![](/img/bksn26sep232.avif) | ![](/img/bksn26sep233.avif) | ![](/img/bksn26sep234.avif) |
 
 Saat ini kita hidup di dunia yang sedang mengalami berbagai krisis. Krisis lingkungan, kelaparan, kekerasan, perang, wabah, dan perpecahan akibat perbedaan ideologi menandai situasi global dewasa ini. Perpecahan bahkan mengancam persaudaraan manusia. Paus Fransiskus melalui ensiklik Fratelli Tutti (Saudara Sekalian), menyerukan pentingnya mengembangkan budaya persaudaraan dan melihatnya sebagai peluang untuk memulihkan keadaan dunia yang terancam perpecahan ini. Dalam pertemuan keempat ini, kita akan mendalami subtema , "Kasih Allah Mempersatukan." Persaudaraan menjadi tanda komunitas beriman yang hidup dalam kasih. Ketika kita hidup dalam kasih sebagai satu saudara, saat itulah Allah hadir, menemani, dan meluputkan kita dari bahaya.
 
