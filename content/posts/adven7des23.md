@@ -7,7 +7,7 @@ categories: ["Percakapan Rohani"]
 ---
 | | | |
 |---|---|---|
-| ![](/img/adven7des231.jpg) | ![](/img/adven7des232.jpg)  | ![](/img/adven7des23.jpg)  |
+| ![](/img/adven7des231.avif) | ![](/img/adven7des232.avif)  | ![](/img/adven7des23.avif)  |
 
 Gereja Keuskupan Purwokerto dalam bimbingan Roh Kudus bercita-cita menjadi *paguyuban umat Allah yang beriman mendalam, tangguh, dan dialogal serta sejahtera demi terwujudnya persaudaraan sejati, kehidupan bersama yang bermartabat dan berkeadilan, serta keutuhan ciptaan*. Demikianlah visi Keuskupan Purwokerto yang mulai dihidupi sejak medio 2021. Salah satu upaya menghidupi visi tersebut adalah dengan diselenggarakannya program Paroki Mengajar.
 
