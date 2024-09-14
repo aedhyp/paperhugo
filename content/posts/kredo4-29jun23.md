@@ -9,7 +9,7 @@ categories: ["Paroki Mengajar"]
 | ![](/img/kredo4-29jun23.avif) | ![](/img/kredo4-29jun231.avif) |
 
 Pertemuan Kredo ke 4 mempelajari bersama tentang pemahaman iman yang utuh akan ALLAH PUTRA sehingga kita menyatakan pengakuan iman: *"Aku Percaya akan Yesus Kristus, menderita sengsara dalam pemerintahan Pontius Pilatus, Disalibkan, Wafat, dan dimakamkan, yang turun ke tempat penantian, pada hari ketiga Bangkit dari antara orang mati"* dengan iman mendalam, menghayatinya dengan tangguh dan teguh, dan mewartakannya dengan utuh.  
-Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 112-131 Yesus Kristus menderita sengsara dalam pemerintahan Pontius Pilatus, Disalibkan, Wafat, dan dimakamkan (112-124). Yesus turun ke tempat penantian, pada hari ketiga Bangkit dari antara orang mati (125-131).
+Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 112-131 Yesus Kristus menderita sengsara dalam pemerintahan Pontius Pilatus, Disalibkan, Wafat, dan dimakamkan (112-124). Yesus turun ke tempat penantian, pada hari ketiga Bangkit dari antara orang mati (125-131).[KKGK lengkap](/posts/KompendiumKatekismus.pdf)
 
 **Inspirasi: Lukas 24:1-12**
 
