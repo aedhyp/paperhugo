@@ -4,7 +4,7 @@ title: "Sekilas Lingkungan St. Andreas"
 draft: false
 
 ---
-![](/img/logoand.png)
+![](/img/logo.avif)
 
 Sejarah Lingkungan St. Andreas
 
