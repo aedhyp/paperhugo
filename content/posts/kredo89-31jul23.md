@@ -6,7 +6,7 @@ categories: ["Paroki Mengajar"]
 ---
 | | | | | | | 
 |---|---|---|---|---|---|
-| ![](/img/kredo89-10okt23.avif) | ![]/img/kredo89-10okt231.avif | ![]/img/kredo89-10okt232.avif |  ![](/img/kredo89-10okt233.avif) | ![](/img/kredo89-10okt234.avif) | ![](/img/kredo89-10okt235.avif) |
+| ![](/img/kredo89-10okt23.avif) | ![](/img/kredo89-10okt231.avif) | ![](/img/kredo89-10okt232.avif) |  ![](/img/kredo89-10okt233.avif) | ![](/img/kredo89-10okt234.avif) | ![](/img/kredo89-10okt235.avif) |
 
 
 Pertemuan kredo ke 8 dan ke 9 mempelajari bersama tentang pemahaman iman utuh akan *"Aku percaya akan Roh Kudus, Gereja Katolik yang kudus"* dan *"Aku Percaya akan persekutuan para Kudus, pengampunan dosa, kebangkitan badan, kehidupan Kekal. Amin"* sehingga kita dapat menyatakan pengakuan iman dengan mendalam, menghayatinya dengan tangguh dan teguh dan mewartakannya dengan utuh. 
