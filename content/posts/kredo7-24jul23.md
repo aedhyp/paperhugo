@@ -4,9 +4,9 @@ date: 2023-07-24
 tags: ["kredo"]
 categories: ["Paroki Mengajar"]
 ---
-| | 
-|---|
-| ![](/img/kredo7-24jul23.avif) | ![](/img/kredo7-24jul231.avif) | ![](/img/kredo7-24jul232.avif) |  ![](/img/kredo7-24jul233.avif) |  ![](/img/kredo7-24jul234.avif) |  ![](/img/kredo7-24jul235.avif) |  ![](/img/kredo7-24jul236.avif) |  ![](/img/kredo7-24jul237.avif) |  ![](/img/kredo7-24jul238.avif) |  ![](/img/kredo7-24jul239.avif) | 
+| | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| ![](/img/kredo7-24jul23.avif) | ![](/img/kredo7-24jul231.avif) | ![](/img/kredo7-24jul232.avif) |  ![](/img/kredo7-24jul233.avif) | ![](/img/kredo7-24jul234.avif) | ![](/img/kredo7-24jul235.avif) |  ![](/img/kredo7-24jul236.avif) |  ![](/img/kredo7-24jul237.avif) |  ![](/img/kredo7-24jul238.avif) |  ![](/img/kredo7-24jul239.avif) | 
 
 Pertemuan Kredo ke 7 mempelajari bersama tentang pemahaman iman yang utuh akan *"Aku percaya akan Roh Kudus Gereja Katolik yang Kudus" " Gereja Katolik yang Satu, Kudus, Katolik dan Apostolik"* sehingga kita dapat menyatakan pengakuan iman dengan mendalam, menghayatinya dengan tangguh dan teguh dan mewartakannya dengan utuh.
 
