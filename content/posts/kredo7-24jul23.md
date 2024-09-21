@@ -1,5 +1,5 @@
 ---
-title: "Paroki Mengajar: Pertemuan Kredo ke 8 dan 9"
+title: "Paroki Mengajar: Pertemuan Kredo ke 7"
 date: 2023-07-24
 tags: ["kredo"]
 categories: ["Paroki Mengajar"]
