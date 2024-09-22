@@ -1,4 +1,4 @@
- ---
+---
 title: "Pendalaman BKSN 2023 ke 4: Kasih Allah Mempersatukan"
 date: 2023-09-26T20:57:56+07:00
 draft: false
