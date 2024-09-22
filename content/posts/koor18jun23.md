@@ -5,6 +5,4 @@ draft: false
 tags: ["koor"]
 categories: ["Tugas Koor"]
 ---
-| |
-|---|
-| ![](/img/koor18623.avif) |
+![](/img/koor18623.avif) 
