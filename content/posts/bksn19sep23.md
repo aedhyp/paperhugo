@@ -1,13 +1,11 @@
- ---
+---
 title: "Pendalaman BKSN 2023 ke 3: Kasih Allah Menyelamatkan"
 date: 2023-09-19T20:57:56+07:00
 draft: false
 tags: ["bksn", "bksn 2023"]
 categories: ["Pendalaman Iman"]
 ---
- | |
- |---|
- | ![](/img/bksn19sep23.avif) |
+ ![](/img/bksn19sep23.avif) 
  Setelah melewati masa-masa yang penuh tantangan, saat ini masyarakat dunia sedang berupaya untuk bangkit dari keterpurukan, kepedihan, dan krisis akibat Pandemi Covid-19. Banyak yang berhasil bangkit, tetapi tidak sedikit di antara mereka yang kemudian berhadapan dengan kenyataan pahit dan bahkan kehilangan harapan hidup. Pertemuan ketiga ini, mendalami subtema, **"Kasih Allah Menyelamatkan."** Kita diajak untuk senantiasa bersyukur atas rahmat kehidupan yang telah dicurahkan oleh Allah hingga saat ini, betapapun beratnya tantangan hidup kita. Allah sendiri berjanji melalui Nabi Yoel bahwa Ia tidak akan tinggal diam, sebaliknya Ia akan memberikan apa yang dibutuhkan umat-Nya dan memulihkan hidup kita.
 
 Pertemuan ketiga ini, mendalami sebuah teks singkat dari kitab Nabi Yoel, yakni Yl. 2:23-27. Dalam teks ini, Nabi Yoel meyakinkan dan menghibur umat Allah yang baru kembali dari pembuangan dengan menegaskan janji Tuhan bahwa tanah air mereka akan kembali seperti semula dan keadaan mereka akan dipulihkan. Istilah “memulihkan” memiliki arti “mengganti rugi” sebagaimana dapat kita temukan dalam Kel. 22:1. Kehancuran umat akibat invasi tentara Babel dianggap sebagai “kerugian”. Kerugian inilah yang diganti oleh Allah, kehancuran inilah yang akan dipulihkan oleh Allah. Allah memulihkan keadaan umat-Nya untuk menunjukkan “belas kasihan kepada umat-Nya” (Yl. 2:18). Allah itu “pengasih dan penyayang, panjang sabar, dan berlimpah kasih setia” (Yl. 2:13).
