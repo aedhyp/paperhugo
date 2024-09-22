@@ -1,5 +1,4 @@
 ---
-title: "---
 title: "Misa Arwah Mengenang 100 hari Berpulangnya Ibu Elisabeth Eli Puspawati "
 date: 2023-08-28
 tag: [misaarwah]
