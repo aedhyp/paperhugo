@@ -15,4 +15,4 @@ categories: ("misa")
 | ![](/img/misa26jun2310.avif) | ![](/img/misa26jun2311.avif) |
 | ![](/img/misa26jun2312.avif) | ![](/img/misa26jun2313.avif) |
 | ![](/img/misa26jun2314.avif) | ![](/img/misa26jun2315.avif) |
-| ![](/img/misa26jun2316.avif) | ![]() |
+| ![](/img/misa26jun2316.avif) | 
