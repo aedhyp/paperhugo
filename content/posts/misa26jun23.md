@@ -3,7 +3,6 @@ title: "Misa Lingkungan 26 Juni 2023"
 tags: ("misa lingkungan")
 categories: ("misa")
 ---
-
 | | |
 |---|---|
 | ![](/img/misa26jun23.avif) | ![](/img/misa26jun231.avif) |
