@@ -6,7 +6,6 @@ categories: ("misa")
 
 | | |
 |---|---|
-
 | ![](/img/misa26jun23.avif) | ![](/img/misa26jun231.avif) |
 | ![](/img/misa26jun232.avif) | ![](/img/misa26jun233.avif) |
 | ![](/img/misa26jun234.avif) | ![](/img/misa26jun235.avif) |
