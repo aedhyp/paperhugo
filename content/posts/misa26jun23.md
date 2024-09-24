@@ -1,8 +1,8 @@
 ---
 title: "Misa Lingkungan 26 Juni 2023"
 date: 2023-06-26
-tags: ("misa lingkungan")
-categories: ("misa")
+tags: ["misa lingkungan"]
+categories: ["misa"]
 ---
 | | |
 |---|---|
