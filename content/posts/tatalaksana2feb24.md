@@ -1,6 +1,6 @@
 ---
 title: "Tata laksana "
-date: 2023-02-17
+date: 2024-02-17
 tags: ['tata laksana']
 categories: ['tata laksana']
 ---
