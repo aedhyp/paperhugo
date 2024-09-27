@@ -15,4 +15,4 @@ categories: ["tata laksana"]
 | ![](img/tatalaksananatal2312.avif) | ![](img/tatalaksananatal2313.avif) | 
 | ![](img/tatalaksananatal2314.avif) | ![](img/tatalaksananatal2315.avif) | 
 | ![](img/tatalaksananatal2316.avif) | ![](img/tatalaksananatal2317.avif) | 
-| ![](img/tatalaksananatal23.avif) | ![](img/tatalaksananatal2319.avif) | 
+| ![](img/tatalaksananatal23.avif) | ![](img/tatanatal2319.avif) | 
