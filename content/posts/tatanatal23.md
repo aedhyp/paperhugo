@@ -6,7 +6,7 @@ categories: ["tata laksana"]
 ---
 | | |
 |---|---|
-| ![](img/tatalaksananatal23.avif) | ![](img/tatalaksananatal231.avif) | 
+| ![](img/tatalaksana31des23.avif) | ![](img/tatalaksananatal231.avif) | 
 | ![](img/tatalaksananatal232.avif) | ![](img/tatalaksananatal233.avif) | 
 | ![](img/tatalaksananatal234.avif) | ![](img/tatalaksananatal235.avif) | 
 | ![](img/tatalaksananatal236.avif) | ![](img/tatalaksananatal237.avif) | 
