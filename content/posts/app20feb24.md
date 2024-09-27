@@ -7,4 +7,4 @@ categories: ["app"]
 
 | | | | | | |
 |---|---|---|---|---|---|
-| ![](/img/app20feb241.avif) | ![](/img/app20feb242.avif) | ![](/img/app20feb243.avif) | ![](/img/app20feb244.avif) | ![](/img/app20feb245.avif) | ![](/img/app20feb246.avif) | ![](/img/app20feb24.avif) |
+| ![](/img/app20feb241.avif) | ![](/img/app20feb242.avif) | ![](/img/app20feb243.avif) | ![](/img/app20feb244.avif) | ![](/img/app20feb245.avif) | ![](/img/app20feb246.avif) |
