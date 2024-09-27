@@ -4,6 +4,7 @@ date: 2023-12-25
 tags: ["tata laksana natal 2023"]
 categories: ['tata laksana']
 ---
+
 | | |
 |---|---|
 | ![](img/tatalaksananatal23.avif) | ![](img/tatalaksananatal231.avif) | 
@@ -15,4 +16,4 @@ categories: ['tata laksana']
 | ![](img/tatalaksananatal2312.avif) | ![](img/tatalaksananatal2313.avif) | 
 | ![](img/tatalaksananatal2314.avif) | ![](img/tatalaksananatal2315.avif) | 
 | ![](img/tatalaksananatal2316.avif) | ![](img/tatalaksananatal2317.avif) | 
-| ![](img/tatalaksananatal2318.avif) | ![](img/tatalaksananatal2319.avif) | 
+| ![](img/tatalaksananatal23.avif) | ![](img/tatalaksananatal2319.avif) | 
