@@ -4,7 +4,6 @@ date: 2023-07-11
 tags: ["misa baptis"]
 categories: ["misa"]
 ---
-
 | | | 
 |---|---|
 | ![](/img/misa11jul23.avif) | ![](/img/misa11jul231.avif) | 
