@@ -2,9 +2,8 @@
 title: "Tata Laksana Natal 2023"
 date: 2023-12-25
 tags: ["tata laksana natal 2023"]
-categories: ['tata laksana']
+categories: ["tata laksana"]
 ---
-
 | | |
 |---|---|
 | ![](img/tatalaksananatal23.avif) | ![](img/tatalaksananatal231.avif) | 
