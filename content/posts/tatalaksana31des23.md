@@ -1,5 +1,5 @@
 ---
-title: "Tata Laksana akhir tahun 2023"
+title: "Tata Laksana akhir 2023"
 date: 2023-12-31
 tags: ["tata laksana 2023"]
 categories: ["tata laksana"]
