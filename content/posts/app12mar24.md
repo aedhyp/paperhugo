@@ -1,5 +1,5 @@
 ---
-title: "Pendalaman Iman APP ke 4: Membangun Tata Ekonomi Baru: Ekonomi Ekologis Fransiskus"
+title: "Pendalaman Iman APP ke 4: Membangun Tata Ekonomi Baru, Ekonomi Ekologis Fransiskus"
 date: 2024-03-12
 tags: ["app 2024"]
 categories: ["app"]
