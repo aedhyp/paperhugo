@@ -1,8 +1,8 @@
 ---
 title: " Pendalaman Iman APP ke 1: Membangun Ketangguhan melalui Solidaritas"
 date: 2024-02-20
-tags: ["app 2024"]
-categories: ["app"]
+tags: ["app","app 2024"]
+categories: ["pendalaman iman"]
 ---
 
 | | | | | | |
