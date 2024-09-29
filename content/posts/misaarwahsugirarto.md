@@ -7,8 +7,8 @@ categories: ["misa"]
 
 | | |
 |---|---|
-| ![](/img/misaarwah14mar241.avif) | 
-| ![](/img/misaarwah14mar242.avif) |
-| ![](/img/misaarwah14mar245.avif) |
+| ![](/img/misaarwah14mar241.avif) | ![]() |
+| ![](/img/misaarwah14mar242.avif) | ![]() |
+| ![](/img/misaarwah14mar245.avif) | ![]() |
 | ![](/img/misaarwah14mar24.avif) | ![](/img/misaarwah14mar243.avif) |
 | ![](/img/misaarwah14mar244.avif) | ![](/img/misaarwah14mar246.avif) |
