@@ -1,6 +1,6 @@
 ---
 title: "Pendalaman Iman APP 2024 ke 3: Menghidupi Perutusan dalam Ensiklik Laudato Si Menjadikan Bumi Rumah Bersama"
-date: 2024/03/05
+date: 2024-03-05
 tags: ["app","app 2024"]
 categories: ["Pendalaman Iman"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Kunjungan Orang sakit Natal 2023"
+date: 2023-12-03
 tags: ["kunjungan sakit dan manula"]
 categories: ["Natal 2023"]
 ---
