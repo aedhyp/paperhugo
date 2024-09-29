@@ -1,5 +1,5 @@
 ---
-title: "Mewujudkan Solidaritas dan Keramahan pada Kaum Disabilitas"
+title: "Pendalaman APP ke 2: Mewujudkan Solidaritas dan Keramahan pada Kaum Disabilitas"
 date: 2024-02-28
 tags: ["app 2024"]
 categories: ["app"]
