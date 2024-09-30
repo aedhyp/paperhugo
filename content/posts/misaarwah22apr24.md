@@ -1,5 +1,5 @@
 ---
-title: " "Misa Arwah Mengenang 1 tahun Berpulangnya Bapak Hironimus Soedjarwo"
+title: "Misa Arwah Mengenang 1 tahun Berpulangnya Bapak Hironimus Soedjarwo"
 date: 2024-04-22
 tags: ["misa arwah"]
 categories: ["misa"]
