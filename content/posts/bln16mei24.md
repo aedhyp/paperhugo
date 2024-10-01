@@ -7,6 +7,7 @@ categories: ["pendalaman iman"]
 | | | |
 |---|---|---|
 | ![](/img/bln16mei24.avif) | ![](/img/bln16mei241.avif) | ![](/img/bln16mei242.avif) |
+
 Bapak/Ibu, saudara/saudari yang terkasih dalam Kristus, kita bersyukur karena Allah telah mengumpulkan kita untuk merayakan Bulan Liturgi Nasional tahun ini. Pada pertemuan pertama ini, kita semua diajak untuk bersama-sama mendiskusikan dan merenungkan sebuah tema, yakni Merayakan Ekaristi dengan Baik. Untuk dapat merayakan ekaristi dengan baik, pertama-tama kita diajak untuk mengetahui tentang keterlibatan kita dalam perayaan ekaristi. Sejauh mana kita ikut berpartisipasi dalam perayaan ekaristi?
 Perayaan ekaristi bukan sekadar sebuah ritual rutin dalam kehidupan kita sebagai umat Katolik. Ekaristi adalah sumber dan puncak dari seluruh kehidupan gereja kita. Dalam ekaristi, kita tidak hanya mengingat kembali pengorbanan Kristus bagi kita, tetapi juga berpartisipasi dalam Misteri Keselamatan yang telah dibawa oleh Kristus. Oleh karena itu, penting bagi kita untuk memahami dan merayakan ekaristi dengan cara yang benar dan penuh makna.
 Pertemuan kita hari ini tidak membahas tentang mana yang benar dan mana yang salah, tetapi lebih dari itu, kita akan mendalami bagaimana kita dapat mengikuti dan menghayati ekaristi. Kita akan menggali makna yang dalam dari setiap elemen liturgis, seperti keheningan, sehingga kita dapat merasakan kehadiran nyata Kristus dalam perayaan ekaristi. 
