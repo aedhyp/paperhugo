@@ -1,8 +1,6 @@
 ---
 title: "Bersih bersih gereja dan lingkungan menyambut Natal 2023"
 date: 2023-12-17T20:57:56+07:00
-draft: false
-
 tags: ["kegiatan", "natal"]
 categories: ["Natal 2023"]
 ---
