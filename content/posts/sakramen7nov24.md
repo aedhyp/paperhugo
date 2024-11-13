@@ -6,4 +6,4 @@ categories: ["pendalaman sakramen"]
 ---
 | | | |
 |---|---|---|
-| ![](img/sakramen7nov241.avif) | ![](img/sakramen7nov24.avif) | ![](img/sakramen7nov242.avif) |
+| ![](/img/sakramen7nov241.avif) | ![](/img/sakramen7nov24.avif) | ![](/img/sakramen7nov242.avif) |
