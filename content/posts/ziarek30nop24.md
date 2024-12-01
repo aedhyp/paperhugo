@@ -8,5 +8,5 @@ categories: ['ziarek','pesta pelindung']
 <h2>Siap2 berangkat ke Gereja Ganjuran subuh jam 04.00</h2>
 | | |
 |---|---|
-| !(/img/IMG-20241130-WA0009.avif) | !(/img/IMG-20241130-WA0011.avif) |
+| ![](/img/IMG-20241130-WA0009.avif) | ![](/img/IMG-20241130-WA0011.avif) |
 
