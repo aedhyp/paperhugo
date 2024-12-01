@@ -16,3 +16,16 @@ Tiba di Gereja Ganjuran
 | ![](/img/IMG-20241130-WA0026.avif) | ![](/img/IMG-20241130-WA0028.avif) |
 | ![](/img/IMG-20241130-WA0030.avif) | ![](/img/IMG-20241130-WA0032.avif) |
 | ![](/img/IMG-20241130-WA0044.avif) | ![](/img/IMG-20241130-WA0076.avif) |
+| ![](/img/IMG-20241130-WA0082.avif) | ![](/img/IMG-20241130-WA0098.avif) |
+| ![](/img/IMG-20241130-WA0100.avif) | ![](/img/IMG-20241130-WA0104.avif) |
+| ![](/img/IMG-20241130-WA0122.avif) | ![](/img/IMG-20241130-WA0126.avif) |
+| ![](/img/IMG-20241130-WA0130.avif) | ![](/img/IMG-20241130-WA0134.avif) |
+
+Doa Bersama Menhormati Hati Kudus Yesus
+| | |
+|---|---|
+| ![](/img/IMG-20241130-WA0274.avif) | ![](/img/IMG-20241130-WA0276.avif) |
+| ![](/img/IMG-20241130-WA0278.avif) | ![](/img/IMG-20241130-WA0280.avif) |
+| ![](/img/IMG-20241130-WA0282.avif) | ![](/img/IMG-20241130-WA0286.avif) |
+| ![](/img/IMG-20241130-WA0292.avif) | ![](/img/IMG-20241130-WA0294.avif) |
+| ![](/img/IMG-20241130-WA0296.avif) | ![](/img/IMG-20241130-WA0300.avif) |
