@@ -12,4 +12,4 @@ Siap siap berangkat ke gereja Ganjuran
 Tiba di Gereja Ganjuran
 | | |
 |---|---|
-| ![](/img/IMG-20241130-WA0009.avif) | ![](/img/IMG-20241130-WA0011.avif) |
+| ![](/img//e0387b9af4264ad4918b4a0d7a591d7e.avif) | ![](/img/IMG-20241130-WA0011.avif) |
