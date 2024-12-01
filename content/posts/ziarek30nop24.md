@@ -21,7 +21,7 @@ Tiba di Gereja Ganjuran
 | ![](/img/IMG-20241130-WA0122.avif) | ![](/img/IMG-20241130-WA0126.avif) |
 | ![](/img/IMG-20241130-WA0130.avif) | ![](/img/IMG-20241130-WA0134.avif) |
 
-Doa Bersama Menhormati Hati Kudus Yesus
+Doa Bersama Menhormati Hati Kudus Yesus dipimpin Romo FX Wahyudi, MSC
 | | |
 |---|---|
 | ![](/img/IMG-20241130-WA0274.avif) | ![](/img/IMG-20241130-WA0276.avif) |
