@@ -44,4 +44,3 @@ Siap siap berangkat ke gereja Ganjuran
 | ![](/img/IMG-20241130-WA0282.avif) | ![](/img/IMG-20241130-WA0286.avif) |
 | ![](/img/IMG-20241130-WA0292.avif) | ![](/img/IMG-20241130-WA0294.avif) |
 | ![](/img/IMG-20241130-WA0072.avif) | ![](/img/IMG-20241130-WA0074.avif) |
-
