@@ -25,32 +25,10 @@ Tiba di Gereja Ganjuran
 | ![](/img/IMG-20241130-WA0343.avif) | ![](/img/IMG-20241130-WA0345.avif) |
 | ![](/img/IMG-20241130-WA0081.avif) | ![](/img/IMG-20241130-WA0089.avif) |
 | ![](/img/IMG-20241130-WA0092.avif) | ![](/img/IMG-20241130-WA0096.avif) |
+
+Doa bersama Menghormati Hati Kudus Yesus
 | | |
 |---|---|
-| ![](/img/IMG-20241130-WA0274.avif) | ![](/img/IMG-20241130-WA0276.avif) |
-| ![](/img/IMG-20241130-WA0278.avif) | ![](/img/IMG-20241130-WA0280.avif) |
-| ![](/img/IMG-20241130-WA0282.avif) | ![](/img/IMG-20241130-WA0286.avif) |
-| ![](/img/IMG-20241130-WA0292.avif) | ![](/img/IMG-20241130-WA0294.avif) |
-| ![](/img/IMG-20241130-WA0296.avif) | ![](/img/IMG-20241130-WA0300.avif) |
-| ![](/img/IMG-20241130-WA0305.avif) | ![](/img/IMG-20241130-WA0307.avif) |
-| ![](/img/IMG-20241130-WA0309.avif) | ![](/img/IMG-20241130-WA0311.avif) |
-| ![](/img/IMG-20241130-WA0313.avif) | ![](/img/IMG-20241130-WA0315.avif) |
-| ![](/img/IMG-20241130-WA0317.avif) | ![](/img/IMG-20241130-WA0335.avif) |
-| ![](/img/IMG-20241130-WA0274.avif) | ![](/img/IMG-20241130-WA0276.avif) |
-| ![](/img/IMG-20241130-WA0278.avif) | ![](/img/IMG-20241130-WA0280.avif) |
-| ![](/img/IMG-20241130-WA0282.avif) | ![](/img/IMG-20241130-WA0286.avif) |
-| ![](/img/IMG-20241130-WA0292.avif) | ![](/img/IMG-20241130-WA0294.avif) |
-| ![](/img/IMG-20241130-WA0296.avif) | ![](/img/IMG-20241130-WA0300.avif) |
-| ![](/img/IMG-20241130-WA0274.avif) | ![](/img/IMG-20241130-WA0276.avif) |
-| ![](/img/IMG-20241130-WA0278.avif) | ![](/img/IMG-20241130-WA0280.avif) |
-| ![](/img/IMG-20241130-WA0282.avif) | ![](/img/IMG-20241130-WA0286.avif) |
-| ![](/img/IMG-20241130-WA0292.avif) | ![](/img/IMG-20241130-WA0294.avif) |
-| ![](/img/IMG-20241130-WA0072.avif) | ![](/img/IMG-20241130-WA0074.avif) |
-| | |
-|---|---|
-
-Doa bersama menghormati Hati Kudus Yesus
-
 | ![](/img/IMG-20241130-WA0274.avif) | ![](/img/IMG-20241130-WA0276.avif) |
 | ![](/img/IMG-20241130-WA0278.avif) | ![](/img/IMG-20241130-WA0280.avif) |
 | ![](/img/IMG-20241130-WA0282.avif) | ![](/img/IMG-20241130-WA0286.avif) |
