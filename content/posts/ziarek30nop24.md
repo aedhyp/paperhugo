@@ -22,9 +22,8 @@ sampai diganjuran
 | ![](/img/IMG-20241130-WA0321.avif) | ![](/img/IMG-20241130-WA0327.avif) |
 | ![](/img/IMG-20241130-WA0331.avif) | ![](/img/IMG-20241130-WA0341.avif) |
 | ![](/img/IMG-20241130-WA0343.avif) | ![](/img/IMG-20241130-WA0345.avif) |
-
+| ![](/img/IMG-20241201-WA0081.avif) | ![](/img/IMG-20241201-WA0089.avif) |
 doa bersama di ganjuran
 | | |
 |---|---|
 | ![](/img/IMG-20241130-WA0009.avif) | ![](/img/IMG-20241130-WA0011.avif) |
-| ![](/img/IMG-20241130-WA0081.avif) | ![](/img/IMG-20241130-WA0089.avif) |
