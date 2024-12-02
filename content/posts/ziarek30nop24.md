@@ -27,3 +27,4 @@ doa bersama di ganjuran
 | | |
 |---|---|
 | ![](/img/IMG-20241130-WA0009.avif) | ![](/img/IMG-20241130-WA0011.avif) |
+| ![](/img/IMG-20241130-WA0081.avif) | ![](/img/IMG-20241130-WA0089.avif) |
