@@ -12,6 +12,7 @@ Siap siap berangkat ke Ganjuran
 sampai diganjuran
 | | |
 |---|---|
+|---|---|
 | ![](/img/IMG-20241130-WA0026.avif) | ![](/img/IMG-20241130-WA0028.avif) |
 | ![](/img/IMG-20241130-WA0030.avif) | ![](/img/IMG-20241130-WA0032.avif) |
 | ![](/img/IMG-20241130-WA0044.avif) | ![](/img/IMG-20241130-WA0076.avif) |
