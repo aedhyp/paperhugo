@@ -17,6 +17,13 @@ sampai diganjuran
 | ![](/img/IMG-20241130-WA0044.avif) | ![](/img/IMG-20241130-WA0076.avif) |
 | ![](/img/IMG-20241130-WA0082.avif) | ![](/img/IMG-20241130-WA0098.avif) |
 | ![](/img/IMG-20241130-WA0100.avif) | ![](/img/IMG-20241130-WA0104.avif) |
+| ![](/img/IMG-20241130-WA0122.avif) | ![](/img/IMG-20241130-WA0126.avif) |
+| ![](/img/IMG-20241130-WA0130.avif) | ![](/img/IMG-20241130-WA0134.avif) |
+| ![](/img/IMG-20241130-WA0321.avif) | ![](/img/IMG-20241130-WA0327.avif) |
+| ![](/img/IMG-20241130-WA0331.avif) | ![](/img/IMG-20241130-WA0341.avif) |
+| ![](/img/IMG-20241130-WA0343.avif) | ![](/img/IMG-20241130-WA0345.avif) |
+| ![](/img/IMG-20241130-WA0081.avif) | ![](/img/IMG-20241130-WA0089.avif) |
+| ![](/img/IMG-20241130-WA0092.avif) | ![](/img/IMG-20241130-WA0096.avif) |
 
 doa bersama di ganjuran
 | | |
