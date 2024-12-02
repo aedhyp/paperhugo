@@ -47,9 +47,11 @@ Tiba di Gereja Ganjuran
 | ![](/img/IMG-20241130-WA0282.avif) | ![](/img/IMG-20241130-WA0286.avif) |
 | ![](/img/IMG-20241130-WA0292.avif) | ![](/img/IMG-20241130-WA0294.avif) |
 | ![](/img/IMG-20241130-WA0072.avif) | ![](/img/IMG-20241130-WA0074.avif) |
-Doa bersama menghormati Hati Kudus Yesus
 | | |
 |---|---|
+
+Doa bersama menghormati Hati Kudus Yesus
+
 | ![](/img/IMG-20241130-WA0274.avif) | ![](/img/IMG-20241130-WA0276.avif) |
 | ![](/img/IMG-20241130-WA0278.avif) | ![](/img/IMG-20241130-WA0280.avif) |
 | ![](/img/IMG-20241130-WA0282.avif) | ![](/img/IMG-20241130-WA0286.avif) |
