@@ -6,7 +6,7 @@ categories: ['ziarek','pesta pelindung']
 ---
 | | |
 |---|---|
-| ![](/img/IMG-20241130-WA0009.avif) | ![](/img/IMG-20241130-WA0011.avif) |
+| ![Siap siap ke Ganjuran](/img/IMG-20241130-WA0009.avif) | ![](/img/IMG-20241130-WA0011.avif) |
 | | |
 |---|---|
 | ![](/img//ganjuran.avif)           | ![](/img/IMG-20241130-WA0024(1).avif) |
