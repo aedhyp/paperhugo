@@ -8,8 +8,6 @@ Siap siap berangkat ke gereja Ganjuran
 | | |
 |---|---|
 | ![](/img/IMG-20241130-WA0009.avif) | ![](/img/IMG-20241130-WA0011.avif) |
-
-Tiba di Gereja Ganjuran
 | | |
 |---|---|
 | ![](/img//ganjuran.avif)           | ![](/img/IMG-20241130-WA0024(1).avif) |
@@ -25,7 +23,6 @@ Tiba di Gereja Ganjuran
 | ![](/img/IMG-20241130-WA0343.avif) | ![](/img/IMG-20241130-WA0345.avif) |
 | ![](/img/IMG-20241130-WA0081.avif) | ![](/img/IMG-20241130-WA0089.avif) |
 | ![](/img/IMG-20241130-WA0092.avif) | ![](/img/IMG-20241130-WA0096.avif) |
-Doa bersama Menghormati Hati Kudus Yesus
 | | |
 |---|---|
 | ![](/img/IMG-20241130-WA0274.avif) | ![](/img/IMG-20241130-WA0276.avif) |
