@@ -3,11 +3,10 @@ title: "Pesta Pelindung Lingkungan : Ziarek Lingkungan ke Gereja Ganjuran , Gua 
 date: 2024-11-30
 tags: ["ziarek 2024", "pesta pelindung 2024"]
 categories: ["ziarek", "pesta pelindung"]
+summary: " ziarek ke Ganjuran"
 ---
 
-ziarek
-
-<!--more--> berangkat pagi pagi
+berangkat pagi pagi
 
 |                                    |                                    |
 | ---------------------------------- | ---------------------------------- |
