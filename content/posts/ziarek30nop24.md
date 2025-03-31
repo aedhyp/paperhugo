@@ -5,9 +5,12 @@ tags: ["ziarek 2024", "pesta pelindung 2024"]
 categories: ["ziarek", "pesta pelindung"]
 ---
 
-Siap siap berangkat ke Gereja Ganjuran Jogja
-| | |
-|---|---|
+Siap siap berangkat ke Gereja Ganjuran Jogja dari purwokerto
+
+<!--more--> berangkat pagi pagi
+
+|                                    |                                    |
+| ---------------------------------- | ---------------------------------- |
 | ![](/img/IMG-20241130-WA0009.avif) | ![](/img/IMG-20241130-WA0011.avif) |
 
 Tiba di Ganjuran
