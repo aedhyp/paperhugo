@@ -5,8 +5,9 @@ tags: ["ziarek 2024", "pesta pelindung 2024"]
 categories: ["ziarek", "pesta pelindung"]
 ---
 
-<div class="gallery-grid">
-    <img src="/img/IMG-20241130-WA0009.avif" alt="Ziarek 1">
-    <img src="/img/IMG-20241130-WA0011.avif" alt="Ziarek 2">
-    <!-- ...other images... -->
+<div class="grid-gallery">
+    <img src="/img/IMG-20241130-WA0009.avif" alt="Ziarek Ganjuran">
+    <img src="/img/IMG-20241130-WA0011.avif" alt="Ziarek Ganjuran">
+    <img src="/img/IMG-20241130-WA0026.avif" alt="Ziarek Ganjuran">
+    <img src="/img/IMG-20241130-WA0028.avif" alt="Ziarek Ganjuran">
 </div>
