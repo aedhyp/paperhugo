@@ -8,6 +8,7 @@ cover:
   image: "/img/IMG-20241130-WA0026.avif"
   alt: "Ziarek ke gereja Ganjuran"
   caption: "Ziarah ke gereja ganjuran"
+  hiddeninSingle: true
 ---
 
 berangkat pagi pagi
