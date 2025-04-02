@@ -2,157 +2,1138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Info Kegiatan Lingkungan</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://standreas.my.id/posts/</link>
     <description>Recent content in Posts on Info Kegiatan Lingkungan</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Dec 2023 20:57:56 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://standreas.my.id/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Percakapan Rohani Adven ke 3: Hidup dalam Roh Kudus</title>
-      <link>http://localhost:1313/posts/adven19des23/</link>
-      <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/adven19des23/</guid>
+      <title>Pesta Pelindung Lingkungan : Ziarek Lingkungan ke Gereja Ganjuran , Gua Maria Tritis</title>
+      <link>https://standreas.my.id/posts/ziarek2025/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/ziarek2025/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Pesta Pelindung Lingkungan : Ziarek Lingkungan ke Gereja Ganjuran , Gua Maria Tritis</title>
+      <link>https://standreas.my.id/posts/ziarek30nop24/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/ziarek30nop24/</guid>
+      <description>ziarek ke Ganjuran Jogja</description>
+    </item>
+    <item>
+      <title>Pendalaman Sakramen : Dosa melawan Sakramen Perkawinan</title>
+      <link>https://standreas.my.id/posts/sakramen7nov24/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/sakramen7nov24/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/sakramen7nov241.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/sakramen7nov24.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des233.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des23.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des234.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven19des235.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Tema pertemuan ketiga :“Hidup dalam Roh Kudus”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bersih bersih gereja dan lingkungan menyambut Natal 2023</title>
-      <link>http://localhost:1313/posts/bersihnatal23/</link>
-      <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bersihnatal23/</guid>
-      <description>&lt;p&gt;Umat paroki  dan warga lingkungan kompak dan semangat,  kerja bakti membersihkan lingkungan seputar gereja.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bersih17des231.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bersih17des233.avif&#34; alt=&#34;bersih 2&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bersih17des23.avif&#34; alt=&#34;bersih&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bersih17des232.avif&#34; alt=&#34;bersih&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/sakramen7nov242.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
     </item>
     <item>
-      <title>Percakapan Rohani Adven ke 2: Aku tahu kepada siapa aku percaya</title>
-      <link>http://localhost:1313/posts/adven12des23/</link>
-      <pubDate>Tue, 12 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/adven12des23/</guid>
+      <title> Pendalaman Bulan Liturgi Nasional ke 1: Merayakan Ekaristi Dengan Baik</title>
+      <link>https://standreas.my.id/posts/bln16mei24/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/bln16mei24/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven12des231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bln16mei242.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven12des232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bln16mei241.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven12des233.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven12des23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bln16mei244.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Tema pertemuan kedua : “Aku tahu kepada siapa aku percaya”&lt;/p&gt;</description>
+&lt;p&gt;Bapak/Ibu, saudara/saudari yang terkasih dalam Kristus, kita bersyukur karena Allah telah mengumpulkan kita untuk merayakan Bulan Liturgi Nasional tahun ini. Pada pertemuan pertama ini, kita semua diajak untuk bersama-sama mendiskusikan dan merenungkan sebuah tema, yakni Merayakan Ekaristi dengan Baik. Untuk dapat merayakan ekaristi dengan baik, pertama-tama kita diajak untuk mengetahui tentang keterlibatan kita dalam perayaan ekaristi. Sejauh mana kita ikut berpartisipasi dalam perayaan ekaristi?
+Perayaan ekaristi bukan sekadar sebuah ritual rutin dalam kehidupan kita sebagai umat Katolik. Ekaristi adalah sumber dan puncak dari seluruh kehidupan gereja kita. Dalam ekaristi, kita tidak hanya mengingat kembali pengorbanan Kristus bagi kita, tetapi juga berpartisipasi dalam Misteri Keselamatan yang telah dibawa oleh Kristus. Oleh karena itu, penting bagi kita untuk memahami dan merayakan ekaristi dengan cara yang benar dan penuh makna.
+Pertemuan kita hari ini tidak membahas tentang mana yang benar dan mana yang salah, tetapi lebih dari itu, kita akan mendalami bagaimana kita dapat mengikuti dan menghayati ekaristi. Kita akan menggali makna yang dalam dari setiap elemen liturgis, seperti keheningan, sehingga kita dapat merasakan kehadiran nyata Kristus dalam perayaan ekaristi.
+Dalam suasana yang penuh kebersamaan, kita akan saling berbagi pengalaman, kisah, dan inspirasi tentang bagaimana ekaristi telah membentuk dan mengubah kehidupan kita secara pribadi dan sebagai komunitas umat beriman. Melalui pertemuan ini, kita diundang untuk memperdalam cinta dan kesetiaan kita kepada Kristus yang hadir dalam ekaristi, serta memperkuat ikatan kita sebagai umat yang bersatu dalam kasih-Nya.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Misa Arwah 1000 hari berpulangnya Ibu Maria Tjoe Siok Lan</title>
+      <link>https://standreas.my.id/posts/misaarwah30apr24/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misaarwah30apr24/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah30apr24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misa Arwah Mengenang 1 tahun Berpulangnya Bapak Hironimus Soedjarwo</title>
+      <link>https://standreas.my.id/posts/misaarwah22apr24/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misaarwah22apr24/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr242.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr241.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr244.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr245.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr246.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr247.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr248.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr2410.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr2411.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr2412.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr249.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Tuguran Kamis Putih</title>
+      <link>https://standreas.my.id/posts/tuguran28mar24/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/tuguran28mar24/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tuguran28mar24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Tata Laksana 17 Maret 2024</title>
+      <link>https://standreas.my.id/posts/tata17mar24/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/tata17mar24/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tata17mar24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misa St. Peregrinus di Hening Griya  Baturraden</title>
+      <link>https://standreas.my.id/posts/misastperegrinus17mar24/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misastperegrinus17mar24/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaperegrinus17mar24.avif&#34; alt=&#34;&#34;  /&gt;
+
+Beberapa warga lingkungan St. Andreas datang di misa Santo Peregrinus Minggu, 17 Maret 2024 jam 16.00 di Kapel St.Peregrinus- Hening Griya Baturraden. Misa diadakan setiap bulan di minggu ke 4, hari Minggu jam 16.00&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Misa Arwah 40 hari berpulangnya Bp. Ignatius Sugiarto</title>
+      <link>https://standreas.my.id/posts/misaarwahsugirarto/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misaarwahsugirarto/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar241.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar242.avif&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar245.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar243.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar244.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar246.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Pendalaman Iman APP ke 4: Membangun Tata Ekonomi Baru, Ekonomi Ekologis Fransiskus</title>
+      <link>https://standreas.my.id/posts/app12mar24/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/app12mar24/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar243.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar244.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar245.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar246.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar249.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar248.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar2410.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app12mar2411.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Saudara-saudara terkasih, sebagai umat beriman, kita dipanggil untuk merespon dan melakukan cara hidup baru seperti yang ditekankan oleh Paus Fransiskus dalam ensiklik Ladato Si’: tentang Peduli Rumah Kita Bersama dan tata ekonomi baru yang berwajah humanis sekaligus ekologis. Dalam beberapa seruan apostoliknya, Paus Fransiskus membicarakan tentang ekonomi ekologis yaitu ekonomi yang menjamin nilai kesejahteraan dan tanggungjawab ekologis.
+Melalui berbagai ajaran dan pesannya, Paus Fransiskus meminta kita semua untuk membangun perilaku yang lebih bertanggung jawab dalam hal konsumsi, produksi dan pengambilan keputusan dengan tujuan memastikan kehidupan yang bermanfaat bagi semua orang. Oleh karena itu kita perlu mendiskusikan dan merasakan kontribusi kita masing-masing baik sebagai keluarga, warga lingkungan dan paroki serta bagian dari Gereja Dunia  dalam memerangi budaya ‘sampah’ atau ‘membuang’, konsistensi dalam memulihkan keutuhan ciptaan dan mewujudkan tata hidup baru (habitus baru) dalam kehidupan dan kegiatan ekonomi kita.
+Menimba Inspirasi melalui Ajaran Sosial Katolik dari Paus Fransiskus :
+Saudara-saudari yang terkasih, Paus Fransiskus telah menerbitkan beberapa dokumen penting berkaitan dengan pembangunan ekonomi yang humanis dan ekologis. Dokumen tersebut adalah: ensiklik Laudato Si’ (2015), ensiklik Fratelli Tutti (2020), Sambutan Paus tentang Ekonomi Fransiskus (2020), Seruan Apostolik Laudate Deum (2023). Berikut ringkasan umum dan padat tentang dokumen-dokumen tersebut.
+Ensiklik Laudato Si’: [1] Sebuah panggilan mendesak untuk melindungi &amp;lsquo;rumah bersama&amp;rsquo; kita. Dokumen ini mengkritik konsumerisme dan pembangunan berlebihan, sambil menyoroti krisis ekologis yang kita hadapi.  [2] Eksploitasi planet sudah melebihi batas maksimal, padahal kita masih belum memecahkan masalah kemiskinan. [3] Krisis ekologi, dan perusakan besar-besaran keanekaragaman hayati, dapat mengancam keberadaan spesies manusia. [4] Solusi atau pemikiran yang ditawarkan adalah membangun ekologi integral (semua aspek kehidupan harus menempatkan paradigma ekologis).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pendalaman Iman APP ke 3: Menghidupi Perutusan dalam Ensiklik Laudato Si&#39; Menjadikan Bumi Rumah Bersama</title>
+      <link>https://standreas.my.id/posts/app5mar24/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/app5mar24/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app5mar24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app5mar241.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app5mar242.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app5mar243.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app5mar244.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app5mar245.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Bumi merupakan asal usul dan rumah di mana manusia tinggal, belajar, bermain, dan mengalami pertumbuhan. Bumi telah menyediakan semua kebutuhan hidup manusia itu secara cuma-cuma. Karenanya tanpa bumi manusia akan mati. Tetapi, tanpa manusia bumi tidak akan mati. Hanya dengan berada di bumi manusia dapat menyadari kodrat diri yang sesungguhnya.
+Melalui ensiklik Laudato Si’ kita diingatkan kembali akan kehendak Allah untuk menjadikan kembali Bumi sebagai rumah bersama. Allah memanggil umat Keuskupan Purwokerto untuk mengambil bagian dalam karya keselamatan Allah yang memulihkan, menjaga dan merawat alam. Allah menghendaki agar kita semua menjadi pemelihara dan menjaga alam semesta, agar bumi ini menjadi rumah bersama seluruh karya ciptaan-Nya.
+Menimba Sabda Tuhan
+Sebagai pengantar, sebelum membaca teks kitab suci, pemandu dapat memberikan arahan sebagai berikut:
+Marilah kita membaca Kej. 1:11-13; 20-31 tentang Manusia yang diberi kuasa untuk memelihara kebaikan Ciptaan Allah dengan penuh perhatian.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Koor 3 Maret 2024</title>
+      <link>https://standreas.my.id/posts/koor3mar24/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/koor3mar24/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/koor3mar24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pendalaman Iman APP ke 2: Mewujudkan Solidaritas dan Keramahan pada Kaum Disabilitas</title>
+      <link>https://standreas.my.id/posts/app28feb24/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/app28feb24/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb243.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb248.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb2410.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb2411.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb2412.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb2413.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb2414.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb244.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb245.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb246.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb247.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb249.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb241.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb242.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Bapak-ibu, saudara-saudari terkasih, dalam pertemuan kedua ini, kita ingin mengingat penderitaan semua pria dan wanita penyandang disabilitas yang berada di dalam keluarga kita, lingkungan tinggal kita, komunitas kristiani, dan menjadi bagian paroki serta keuskupan Purwokerto. Program Visioner Keuskupan mengajak kita untuk menjadi komunitas yang ramah dan memberikan perhatian khusus pada saudara-saudari kita yang berkebutuhan khusus (disabilitas) agar mereka bisa mengakses bantuan dengan cara yang memungkinkan.
+Saudara-saudari penyandang disabilitas adalah anggota gereja yang dapat memperkaya karisma Gereja. Kehadiran dan sapaan paroki, keuskupan dan umat yang lain dapat membantu mengubah situasi aktual di dalam kehidupan kita, menjadikan Gereja lebih manusiawi dan lebih ramah. Tanpa kerentanan, tanpa batasan, tanpa hambatan untuk diatasi, tidak akan ada kemanusiaan sejati”. Perjalanan sinode Para Uskup dan Sinode Keuskupan memberikan kesempatan yang luar biasa mendorong kita semua mendengarkan suara kaum disabilitas dan menggerakkan partisipasi seluruh umat untuk mengupayakan Gereja yang ramah Disabilitas.&lt;br&gt;
+Pesan Paus untuk Penyandang Disabilitas pada Hari Disabilitas International 2020
+Bagi lembaga gerejawi, saya menegaskan kembali perlunya menyediakan sarana yang sesuai dan dapat diakses dalam penanganan umat beriman. Saya juga berharap ini dapat tersedia bagi mereka yang membutuhkannya, sejauh mungkin bebas biaya, juga melalui teknologi baru yang terbukti sangat penting untuk semua orang. Saya juga mendorong upaya untuk menyediakan pelatihan rutin bagi semua Imam, Seminaris, kaum Religius, para Katekis dan insan pastoral tentang disabilitas serta penggunaan alat pastoral inklusif.
+Komunitas paroki harus mendorong di antara umat beriman memiliki sikap ramah-terbuka terhadap para penyandang difabilitas. Membuat Paroki sepenuhnya dapat diakses, bukan hanya terkait tata bangunan gereja, tetapi di atas semua itu, membantu umat paroki mengembangkan sikap/tindakan solider dan pelayanan terhadap penyandang difabilitas beserta keluarga mereka. Tujuan kita seharusnya tidak lagi berbicara tentang &amp;ldquo;mereka&amp;rdquo;, melainkan tentang &amp;ldquo;kita&amp;rdquo;.
+Paus Fransiskus dengan tegas menegaskan kembali hak penyandang disabilitas untuk menerima sakramen, setara seperti semua anggota Gereja lainnya. Semua perayaan liturgi di paroki harus dapat diakses oleh mereka, sehingga bersama saudara-saudari mereka masing-masing dapat memperdalam, merayakan, dan menghidupi iman mereka. Perhatian khusus harus diberikan kepada para umat berkebutuhan khusus yang belum menerima sakramen inisiasi Kristen: mereka harus disambut dan dimasukkan ke dalam program katekese masa persiapan sakramen-sakramen ini. Tidak ada yang harus dikecualikan oleh rahmat sakramen ini. Karena pembaptisan mereka, semua anggota Umat Allah telah menjadi murid yang diutus (misionaris). Semua yang dibaptis, apa pun posisi mereka di Gereja ataupun dalam tingkat pemahaman akan ajaran iman, adalah agen penginjilan ”(Evangelii Gaudium, 120).
+Penyandang disabilitas, baik dalam masyarakat maupun Gereja, juga ingin menjadi subjek aktif dalam pelayanan pastoral kita, bukan hanya penerimanya. “Banyak penyandang disabilitas merasa bahwa mereka ada tanpa rasa memiliki dan tanpa dilibatkan. Banyak yang masih menghalangi mereka untuk mendapatkan hak sepenuhnya. Perhatian kita seharusnya tidak hanya untuk peduli mereka, tetapi juga untuk memastikan &amp;lsquo;partisipasi aktif&amp;rsquo; mereka baik secara sipil maupun gerejawi. Itu merupakan proses yang menuntut dan bahkan melelahkan, namun secara bertahap berkontribusi dalam pembentukan hati nurani yang mampu mengakui setiap individu sebagai unik dan yang tidak dapat diulangi ”(Fratelli Tutti, 98). Memang partisipasi aktif penyandang disabilitas dalam karya katekese dapat sangat memperkaya kehidupan seluruh paroki. Justru karena mereka telah dicangkokkan ke dalam Kristus dalam baptisan, mereka berbagi denganNya, sesuai dengan cara khas mereka sendiri, dalam mewujudkan tugas imamat, kenabian, dan kerajaan melalui, dengan dan di dalam Gereja
+Kehadiran penyandang disabilitas di kalangan katekis, sesuai dengan karunia dan talenta mereka masing masing, dengan demikian merupakan sumber daya bagi komunitas. Upaya harus dilakukan untuk menyediakan pelatihan yang tepat, sehingga mereka dapat memperoleh pengetahuan yang lebih besar juga di bidang teologi dan katekese. Saya percaya bahwa, dalam komunitas paroki, semakin banyak penyandang disabilitas yang menjadi katekis, supaya meneruskan iman secara efektif, juga dengan kesaksian mereka sendiri (lih. Pidato kepada Konferensi “Katekese dan Penyandang Disabilitas”, 21 Oktober 2017). “Yang lebih buruk dari krisis ini adalah tragedi menyia-nyiakan mereka yang berkebutuhan khusus” (Homily on the Solemnity of Pentakosta, 31 Mei 2020). Untuk alasan ini, saya mendorong semua orang yang setiap hari dan sering kali secara diam-diam mengabdikan diri untuk membantu orang lain dalam situasi rapuh dan cacat. Semoga keinginan kita bersama untuk “membangun kembali dengan lebih baik” memunculkan bentuk-bentuk kerjasama baru antara kelompok sipil dan gerejawi dan dengan demikian membangun &amp;ldquo;rumah&amp;rdquo; yang kokoh siap menahan setiap badai dan mampu menyambut orang penyandang disabilitas, karena dibangun di atas batu karang inklusi dan partisipasi aktif&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Pendalaman Iman APP ke 1: Membangun Ketangguhan melalui Solidaritas</title>
+      <link>https://standreas.my.id/posts/app20feb24/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/app20feb24/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app20feb241.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app20feb242.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app20feb243.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app20feb244.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app20feb245.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app20feb246.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Saudara-saudari yang terkasih, melalui para nabi, Tuhan terus mendorong solidaritas kita kepada saudara-saudari kita yang kecil, lemah, miskin dan tersingkir ini dengan seruan yang konkret dan berani: “Berpuasa yang Kukehendaki ialah supaya engkau membuka belenggu-belenggu kelaliman dan melepaskan tali-tali kuk, supaya engkau memerdekakan orang yang teraniaya dan mematahkan setiap kuk, supaya engkau memecah-mecah rotimu bagi orang yang lapar dan membawa ke rumahmu orang miskin yang tak punya rumah, dan apabila engkau melihat orang telanjang, engkau memberi dia pakaian dan tidak menyembunyikan diri terhadap saudaramu sendiri!” (Yes 58:6-7). Masa Prapaskah 2024 merupakan masa pertobatan yang mengajak kita dari pertobatan hati menuju gerak pertobatan praksis lahiriah baik yang dilaksanakan secara pribadi maupun bersama dalam keluarga, komunitas basis, lingkungan, paroki dan keuskupan. Masa tobat ini mengajak kita untuk mewujudkan pertobatan sejati dalam membangun ketangguhan bersama melalui solidaritas kepada saudara-saudari kita yang kecil, lemah, miskin dan tersingkir.
+Bagi kita sebagai umat beriman, dasar solidaritas dan segala perhatian bagi orang miskin adalah kasih sayang dan pilihan Allah untuk mereka. Rasul Yakobus menegaskan: “Bukankah Allah memilih orang-orang yang dianggap miskin oleh dunia ini untuk menjadi kaya dalam iman dan menjadi ahli waris Kerajaan.” (*Yak 2:5). Kasih Allah yang mengangkat orang miskin dari deritanya, bagi kita sebagai umat Kristiani menjadi amat konkret dalam misi Yesus. Ia memperkenalkan diri dengan kata nubuat Yesaya: &amp;ldquo;Roh Tuhan ada pada-Ku, karena Ia telah mengurapi Aku, untuk menyampaikan kabar baik kepada orang-orang miskin. Ia telah mengutus Aku, untuk memberitakan pembebasan kepada orang-orang tawanan, dan penglihatan bagi orang-orang buta, untuk membebaskan orang-orang yang tertindas, untuk memberitakan tahun rahmat Tuhan&amp;rdquo; (*Luk 4:17-19).
+Dalam perjumpaan-Nya dengan banyak orang miskin, sakit, dan kerasukan, kabar baik itu diwujudkan dalam perbuatan yang nyata: “Orang buta melihat, orang lumpuh berjalan, orang kusta ditahirkan, orang tuli mendengar, orang mati dibangkitkan dan kepada orang miskin diberitakan kabar baik” (*Luk 7:22). Maka bukanlah perkataan yang muluk-muluk, ketika Yesus berseru: “Berbahagialah, hai Kamu yang miskin, karena kamulah yang punya Kerajaan Allah” (*Luk 6:20).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tata Laksana Februari 2024 </title>
+      <link>https://standreas.my.id/posts/tatalaksana2feb24/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/tatalaksana2feb24/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tata17feb24.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tata Laksana akhir 2023</title>
+      <link>https://standreas.my.id/posts/tatalaksana31des23/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/tatalaksana31des23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des237.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des2310.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des2312.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des2311.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana31des2313.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Tata Laksana Natal 2023</title>
+      <link>https://standreas.my.id/posts/tatanatal23/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/tatanatal23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal237.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2310.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2311.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2312.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2313.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2314.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2315.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2316.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2317.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2318.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksananatal2319.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Percakapan Rohani Adven ke 3: Hidup dalam Roh Kudus</title>
+      <link>https://standreas.my.id/posts/adven19des23/</link>
+      <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/posts/adven19des23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven19des231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven19des232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven19des233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven19des23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven19des234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven19des235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Tema pertemuan ketiga :“Hidup dalam Roh Kudus”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tujuan&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Menggali lebih dalam pengalaman dan pengetahuan tentang iman kepercayaan akan Allah Roh Kudus.&lt;/li&gt;
+&lt;li&gt;Menemukan benang merah dari perjalanan Percakapan Rohani Adven 2023.&lt;/li&gt;
+&lt;li&gt;Menemukan benang merah dari perjalanan kebersamaan selama pendalaman Credo 2023.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pengantar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Percaya akan Roh Kudus berarti mengakui iman akan Pribadi ketiga Allah Tritunggal, yang berasal dari Bapa dan Putra, dan „disembah dan dimuliakan bersama Bapa dan Putra“. Roh Kudus diutus „ke dalam hati kita“ (Gal 4:6) sehingga kita menerima hidup baru sebagai anak-anak Allah. Roh Kudus pula yang selalu menyertai diri kita, membimbing kita, bahkan Roh Kudus akan membantu kita berdoa ketika kita tidak tahu cara untuk berdoa (Rm 8:26 – 27).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bersih bersih gereja dan lingkungan menyambut Natal 2023</title>
+      <link>https://standreas.my.id/posts/bersihnatal23/</link>
+      <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/posts/bersihnatal23/</guid>
+      <description>&lt;p&gt;Umat paroki St. Yosep dan warga lingkungan RT kompak dan semangat, kerja bakti membersihkan lingkungan seputar gereja.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bersih17des231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bersih17des233.avif&#34; alt=&#34;bersih 2&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bersih17des23.avif&#34; alt=&#34;bersih&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bersih17des232.avif&#34; alt=&#34;bersih&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Percakapan Rohani Adven ke 2: Aku tahu kepada siapa aku percaya</title>
+      <link>https://standreas.my.id/posts/adven12des23/</link>
+      <pubDate>Tue, 12 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/posts/adven12des23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven12des231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven12des232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven12des233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven12des23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Tema pertemuan kedua : “Aku tahu kepada siapa aku percaya”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tujuan&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Menggali lebih dalam pengalaman dan pengetahuan tentang iman kepercayaan akan Yesus Kristus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pengantar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Yesus Kristus adalah pusat dari seluruh misteri keselamatan. Pribadinya menjadi jembatan pemersatu; bangsa Israel dalam Perjanjian Lama dengan kita manusia dalam Perjanjian Baru, kita manusia terpilih dengan Allah Bapa. Percaya kepada Yesus memberikan kekuatan dan kepercayaan diri seutuhnya untuk mewartakan kebenaran dan kasih. Kita percaya kepada Kristus karena kita secara personal telah dipanggil dan diselamatkan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Percakapan Rohani Adven ke 1: Bapa Sang Pencipta Kehidupan</title>
-      <link>http://localhost:1313/posts/adven7des23/</link>
+      <link>https://standreas.my.id/posts/adven7des23/</link>
       <pubDate>Thu, 07 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/adven7des23/</guid>
+      <guid>https://standreas.my.id/posts/adven7des23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven7des231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven7des231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven7des232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven7des232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/adven7des23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/adven7des23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Gereja Keuskupan Purwokerto dalam bimbingan Roh Kudus bercita-cita menjadi &lt;em&gt;paguyuban umat Allah yang beriman mendalam, tangguh, dan dialogal serta sejahtera demi terwujudnya persaudaraan sejati, kehidupan bersama yang bermartabat dan berkeadilan, serta keutuhan ciptaan&lt;/em&gt;. Demikianlah visi Keuskupan Purwokerto yang mulai dihidupi sejak medio 2021. Salah satu upaya menghidupi visi tersebut adalah dengan diselenggarakannya program Paroki Mengajar.&lt;/p&gt;</description>
+&lt;p&gt;Gereja Keuskupan Purwokerto dalam bimbingan Roh Kudus bercita-cita menjadi &lt;em&gt;paguyuban umat Allah yang beriman mendalam, tangguh, dan dialogal serta sejahtera demi terwujudnya persaudaraan sejati, kehidupan bersama yang bermartabat dan berkeadilan, serta keutuhan ciptaan&lt;/em&gt;. Demikianlah visi Keuskupan Purwokerto yang mulai dihidupi sejak medio 2021. Salah satu upaya menghidupi visi tersebut adalah dengan diselenggarakannya program Paroki Mengajar.&lt;/p&gt;
+&lt;p&gt;Kurang lebih enam bulan, kita sebagai Gereja Keuskupan Purwokerto bergerak bersama untuk saling belajar tentang dasar iman katolik kita, yaitu Credo. Tentu banyak pengalaman dan pengetahuan yang kita dapatkan bersama selama satu semester ini. Bisa jadi, di suatu tempat terjadi antusiasme di awal saja. Namun, di lain tempat, dijumpai adanya konsistensi umat untuk belajar bersama. Apapun dinamika yang terjadi di lingkungan atau paroki masing-masing, itu adalah hal yang patut disyukuri bersama.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Pendalaman BKSN 2023 ke 4: Kasih Allah Mempersatukan</title>
-      <link>http://localhost:1313/posts/bksn26sep23/</link>
-      <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bksn26sep23/</guid>
+      <title>Kunjungan Orang sakit Natal 2023</title>
+      <link>https://standreas.my.id/posts/kunjungnatal3des23/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/kunjungnatal3des23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep232.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn26sep234.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des237.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2310.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2311.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2312.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2313.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2314.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2315.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2316.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2317.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2318.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2319.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2320.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2321.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2322.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2323.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2324.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2325.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2326.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2327.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2328.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2329.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2330.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2331.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2332.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2333.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2334.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2335.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2336.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2337.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2338.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kunjungansakit3des2339.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Pesta Pelindung Lingkungan St.Andreas</title>
+      <link>https://standreas.my.id/posts/pestapelindung23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/pestapelindung23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa011223.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112237.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa01122310.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Pesta Pelindung Lingkungan : Ziarek Lingkungan ke Gereja Ganjuran , Gua Maria Tritis</title>
+      <link>https://standreas.my.id/posts/ziareknop24/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/ziareknop24/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0009.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0011.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0011.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0024%281%29.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0026.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0028.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0030.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0032.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0044.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0076.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0082.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0098.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0100.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0104.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0122.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0126.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0130.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0134.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0321.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0327.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0331.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0341.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0343.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0345.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0081.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0089.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0092.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0096.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;mdash;&lt;/td&gt;
+          &lt;td&gt;&amp;mdash;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0274.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0276.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0278.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0280.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0282.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0286.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0292.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0294.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0296.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0300.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0305.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0307.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0309.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0311.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0313.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0315.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0317.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0335.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0274.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0276.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0278.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0280.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0282.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0286.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0292.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0294.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0296.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0300.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0274.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0276.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0278.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0280.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0282.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0286.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0292.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0294.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0072.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/IMG-20241130-WA0074.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Misa Arwah mengenang 3 tahun berpulangnya Bapak Joseph Wang Suwandi Widjaya</title>
+      <link>https://standreas.my.id/posts/misaarwahjoseph/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misaarwahjoseph/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa6nov23.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa6nov231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa6nov232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paroki Mengajar: Pertemuan Kredo ke 8 dan 9</title>
+      <link>https://standreas.my.id/posts/kredo89-31jul23/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/kredo89-31jul23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo89-10okt23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo89-10okt231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo89-10okt232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo89-10okt233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo89-10okt234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo89-10okt235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Pertemuan kredo ke 8 dan ke 9 mempelajari bersama tentang pemahaman iman utuh akan &lt;em&gt;&amp;ldquo;Aku percaya akan Roh Kudus, Gereja Katolik yang kudus&amp;rdquo;&lt;/em&gt; dan &lt;em&gt;&amp;ldquo;Aku Percaya akan persekutuan para Kudus, pengampunan dosa, kebangkitan badan, kehidupan Kekal. Amin&amp;rdquo;&lt;/em&gt; sehingga kita dapat menyatakan pengakuan iman dengan mendalam, menghayatinya dengan tangguh dan teguh dan mewartakannya dengan utuh.
+&lt;strong&gt;Kredo ke 8&lt;/strong&gt;, Materi pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan Kopendium Katekismus Gereja Katolik(KKGK) 177-193. &lt;a href=&#34;https://standreas.my.id/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pendalaman BKSN 2023 ke 4: Kasih Allah Mempersatukan</title>
+      <link>https://standreas.my.id/posts/bksn26sep23/</link>
+      <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/posts/bksn26sep23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn26sep23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn26sep231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn26sep232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn26sep233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn26sep234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -161,53 +1142,39 @@
     </item>
     <item>
       <title>Pendalaman BKSN 2023 ke 3: Kasih Allah Menyelamatkan</title>
-      <link>http://localhost:1313/posts/bksn19sep23/</link>
+      <link>https://standreas.my.id/posts/bksn19sep23/</link>
       <pubDate>Tue, 19 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bksn19sep23/</guid>
-      <description>&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn19sep23.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Setelah melewati masa-masa yang penuh tantangan, saat ini masyarakat dunia sedang berupaya untuk bangkit dari keterpurukan, kepedihan, dan krisis akibat Pandemi Covid-19. Banyak yang berhasil bangkit, tetapi tidak sedikit di antara mereka yang kemudian berhadapan dengan kenyataan pahit dan bahkan kehilangan harapan hidup. Pertemuan ketiga ini, mendalami subtema, &lt;strong&gt;&amp;ldquo;Kasih Allah Menyelamatkan.&amp;rdquo;&lt;/strong&gt; Kita diajak untuk senantiasa bersyukur atas rahmat kehidupan yang telah dicurahkan oleh Allah hingga saat ini, betapapun beratnya tantangan hidup kita. Allah sendiri berjanji melalui Nabi Yoel bahwa Ia tidak akan tinggal diam, sebaliknya Ia akan memberikan apa yang dibutuhkan umat-Nya dan memulihkan hidup kita.&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Pertemuan ketiga ini, mendalami sebuah teks singkat dari kitab Nabi Yoel, yakni Yl. 2:23-27. Dalam teks ini, Nabi Yoel meyakinkan dan menghibur umat Allah yang baru kembali dari pembuangan dengan menegaskan janji Tuhan bahwa tanah air mereka akan kembali seperti semula dan keadaan mereka akan dipulihkan. Istilah “memulihkan” memiliki arti “mengganti rugi” sebagaimana dapat kita temukan dalam Kel. 22:1. Kehancuran umat akibat invasi tentara Babel dianggap sebagai “kerugian”. Kerugian inilah yang diganti oleh Allah, kehancuran inilah yang akan dipulihkan oleh Allah. Allah memulihkan keadaan umat-Nya untuk menunjukkan “belas kasihan kepada umat-Nya” (Yl. 2:18). Allah itu “pengasih dan penyayang, panjang sabar, dan berlimpah kasih setia” (Yl. 2:13).&lt;/p&gt;</description>
+      <guid>https://standreas.my.id/posts/bksn19sep23/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn19sep23.avif&#34; alt=&#34;&#34;  /&gt;
+
+Setelah melewati masa-masa yang penuh tantangan, saat ini masyarakat dunia sedang berupaya untuk bangkit dari keterpurukan, kepedihan, dan krisis akibat Pandemi Covid-19. Banyak yang berhasil bangkit, tetapi tidak sedikit di antara mereka yang kemudian berhadapan dengan kenyataan pahit dan bahkan kehilangan harapan hidup. Pertemuan ketiga ini, mendalami subtema, &lt;strong&gt;&amp;ldquo;Kasih Allah Menyelamatkan.&amp;rdquo;&lt;/strong&gt; Kita diajak untuk senantiasa bersyukur atas rahmat kehidupan yang telah dicurahkan oleh Allah hingga saat ini, betapapun beratnya tantangan hidup kita. Allah sendiri berjanji melalui Nabi Yoel bahwa Ia tidak akan tinggal diam, sebaliknya Ia akan memberikan apa yang dibutuhkan umat-Nya dan memulihkan hidup kita.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman BKSN 2023 ke 2: Kasih Allah Menggerakkan Pertobatan.</title>
-      <link>http://localhost:1313/posts/bksn15sep23/</link>
+      <link>https://standreas.my.id/posts/bksn15sep23/</link>
       <pubDate>Fri, 15 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bksn15sep23/</guid>
+      <guid>https://standreas.my.id/posts/bksn15sep23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn15sep23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn15sep231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn15sep232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn15sep233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn15sep234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn15sep234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -234,36 +1201,36 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman BKSN 2023 ke 1: Allah Sumber Kasih dan Keselamatan</title>
-      <link>http://localhost:1313/posts/bksn7sep23/</link>
+      <link>https://standreas.my.id/posts/bksn7sep23/</link>
       <pubDate>Thu, 07 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bksn7sep23/</guid>
+      <guid>https://standreas.my.id/posts/bksn7sep23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn7sep23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn7sep231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn7sep232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn7sep233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn7sep234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep235.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn7sep235.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bksn7sep236.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bksn7sep236.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -271,83 +1238,106 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
 &lt;p&gt;Tema besar Bulan Kitab Suci Nasional (BKSN) tahun 2023 adalah &lt;strong&gt;Allah Sumber Kasih dan Keselamatan&lt;/strong&gt;. Pasca Pandemi Covid-19, ketika aktivitas dan perjumpaan fisik telah kembali normal, banyak orang tetap mempertahankan kebiasaan hidup selama pandemi, terutama dalam hal pemanfaatan media komunikasi. Kita mengalami apa yang menjadi kekhawatiran Paus Fransiskus dalam Laudato Si&amp;rsquo; (Terpujilah Engkau) bagaimana dunia digital &amp;ldquo;&amp;hellip;kadang-kadang justru menghalangi kita untuk kontak langsung dengan kesusahan, kecemasan, dan sukacita orang lain dan kompleksitas pengalaman pribadinya&amp;rdquo; (No. 47).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hias Altar</title>
-      <link>http://localhost:1313/posts/hias2sep23/</link>
+      <title>Hias Altar 2 September 2023</title>
+      <link>https://standreas.my.id/posts/hias2sep23/</link>
       <pubDate>Sat, 02 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hias2sep23/</guid>
+      <guid>https://standreas.my.id/posts/hias2sep23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep232.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep235.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep234.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep235.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep236.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep236.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep239.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep237.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep237.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep238.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep238.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep239.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep2310.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep2310.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep2311.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep2311.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/hias2sep2312.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/hias2sep2312.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
     </item>
     <item>
+      <title>Misa Arwah Mengenang 100 hari Berpulangnya Ibu Elisabeth Eli Puspawati </title>
+      <link>https://standreas.my.id/posts/misaarwaheli/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misaarwaheli/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt23.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt232.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt233.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt234.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Tata Laksana 26 Agustus 2023</title>
+      <link>https://standreas.my.id/posts/tatalaksana26agt23/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/tatalaksana26agt23/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/tatalaksana26agt23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Penyegaran Rohani dan Doa Rosario Kebangsaan 2023 ke 2</title>
-      <link>http://localhost:1313/posts/bangsa25agt23/</link>
+      <link>https://standreas.my.id/posts/bangsa25agt23/</link>
       <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bangsa25agt23/</guid>
+      <guid>https://standreas.my.id/posts/bangsa25agt23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa25agt23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bangsa25agt23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa25agt231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bangsa25agt231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa25agt232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bangsa25agt232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa25agt233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bangsa25agt233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -356,24 +1346,24 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Penyegaran Rohani dan Doa Rosario Kebangsaan 2023 ke 1</title>
-      <link>http://localhost:1313/posts/bangsa18agt23/</link>
+      <link>https://standreas.my.id/posts/bangsa18agt23/</link>
       <pubDate>Fri, 18 Aug 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bangsa18agt23/</guid>
+      <guid>https://standreas.my.id/posts/bangsa18agt23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa18agt23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bangsa18agt23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa18agt231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bangsa18agt231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/bangsa18agt232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/bangsa18agt232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -381,19 +1371,62 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
 &lt;p&gt;Sesuai dengan Arah Haluan Keuskupan Purwokerto 2022-2035, Gereja. Keuskupan Purwokerto menetapkan bulan Agustus sebagai Bulan Kebangsaan. Pada pertemuan yang pertama ini, kita hendak merefleksikan mengapa kita sebagai orang Katolik musti ikut terlibat dalam dalam hidup di tengah masyarakat. kita diajak untuk merefleksikan panggilan kita sebagai kaum awam Atas dasar Sakramen Baptis dan Krisma serta Sakramen Ekaristi, kita sebagai kaum awam dipanggil untuk menjalankan 5 tugas Gereja: Liturgia ( liturgi /pengudusan), Koinonia ( persekutuan/paguyuban ), Kerygma ( pewartaan) dan Diakonia (pelayanan), martiria ( kesaksian ). Dengan kata lain setiap umat beriman dipanggil untuk terlibat dalam hidup menggereja dan bermasyarakat. Hal ini ditegaskan pula dalam Lumen Gentium artikel 31 (LG 31), &amp;ldquo;&amp;hellip;.kaum awam wajib mencari kerajaan Allah, dengan mengurusi hal-hal yang fana dan mengaturnya seturut kehendak Allah. Mereka hidup dalam dunia, artinya: menjalankan segala macam tugas dan pekerjaan duniawi, dan berada di tengah kenyataan biasa hidup berkeluarga dan sosial&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Misa Arwah Mengenang 100 hari Berpulangnya Bapak Hironimus Soedjarwo</title>
+      <link>https://standreas.my.id/posts/misaarwahsoedjarwo/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misaarwahsoedjarwo/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul23.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul232.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul233.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul234.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul235.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul236.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul237.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Paroki Mengajar: Pertemuan Kredo ke 7</title>
-      <link>http://localhost:1313/posts/kredo7-24jul23/</link>
+      <link>https://standreas.my.id/posts/kredo7-24jul23/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kredo7-24jul23/</guid>
+      <guid>https://standreas.my.id/posts/kredo7-24jul23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo6-18jul23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul237.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo7-24jul239.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -402,207 +1435,332 @@ dikasihi dan diampuni.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paroki Mengajar: Pertemuan Kredo ke 6</title>
-      <link>http://localhost:1313/posts/kredo6-18jul23/</link>
+      <link>https://standreas.my.id/posts/kredo6-18jul23/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kredo6-18jul23/</guid>
+      <guid>https://standreas.my.id/posts/kredo6-18jul23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo6-18jul23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo6-18jul23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Pertemuan Kredo ke 6 mempelajari bersama tentang pemahaman iman yang utuh akan &lt;em&gt;&amp;ldquo;Aku percaya akan Roh Kudus Gereja Katolik yang Kudus&amp;rdquo;&lt;/em&gt; sehingga kita menyatakan pengakuan iman: dengan iman mendalam, menghayatinya dengan tangguh dan teguh, dan mewartakannya dengan utuh.
-Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK no 136-160 AKU PERCAYA AKAN ROH KUDUS (136-146) Aku Percaya akan Gereja Katolik yang Kudus: Gereja dalam Rencana Allah (147-152). Gereja: Umat Allah, Tubuh Kristus, Kanisah Roh Kudus (153-160). &lt;a href=&#34;http://localhost:1313/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
+Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK no 136-160 AKU PERCAYA AKAN ROH KUDUS (136-146) Aku Percaya akan Gereja Katolik yang Kudus: Gereja dalam Rencana Allah (147-152). Gereja: Umat Allah, Tubuh Kristus, Kanisah Roh Kudus (153-160). &lt;a href=&#34;https://standreas.my.id/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Paroki Mengajar: Pertemuan Kredo ke 5</title>
-      <link>http://localhost:1313/posts/kredo5-6jul23/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kredo5-6jul23/</guid>
+      <title>Misa Baptis Ibu Elizabeth Liliana Kusumadi</title>
+      <link>https://standreas.my.id/posts/misabaptis11jul23/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misabaptis11jul23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo5-6jul23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Pertemuan Kredo ke 5 mempelajari bersama tentang pemahaman iman yang utuh akan &lt;em&gt;“Aku Percaya akan Yesus Kristus, yang naik ke surga, duduk di sebelah kanan Allah Bapa yang mahakuasa Dari situ, Ia akan datang mengadili orang yang hidup dan yang mati”&lt;/em&gt; sehingga kita dapat menyatakan pengakuan iman dengan mendalam, menghayatinya dengan tangguh dan teguh dan mewartakannya dengan utuh.&lt;br&gt;
-Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 132-135. Yesus naik ke surga, duduk di sebelah kanan Allah Bapa yang mahakuasa (132). Dari situ, Ia akan datang mengadili orang yang hidup dan yang mati (133-135). &lt;a href=&#34;http://localhost:1313/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paroki Mengajar: Pertemuan Kredo ke 4</title>
-      <link>http://localhost:1313/posts/kredo4-29jun23/</link>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kredo4-29jun23/</guid>
-      <description>&lt;table&gt;
-  &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo4-29jun23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo4-29jun231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Pertemuan Kredo ke 4 mempelajari bersama tentang pemahaman iman yang utuh akan ALLAH PUTRA sehingga kita menyatakan pengakuan iman: &lt;em&gt;&amp;ldquo;Aku Percaya akan Yesus Kristus, menderita sengsara dalam pemerintahan Pontius Pilatus, Disalibkan, Wafat, dan dimakamkan, yang turun ke tempat penantian, pada hari ketiga Bangkit dari antara orang mati&amp;rdquo;&lt;/em&gt; dengan iman mendalam, menghayatinya dengan tangguh dan teguh, dan mewartakannya dengan utuh.&lt;br&gt;
-Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 112-131 Yesus Kristus menderita sengsara dalam pemerintahan Pontius Pilatus, Disalibkan, Wafat, dan dimakamkan (112-124). Yesus turun ke tempat penantian, pada hari ketiga Bangkit dari antara orang mati (125-131).&lt;a href=&#34;http://localhost:1313/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Paroki Mengajar: Pertemuan Kredo ke 3</title>
-      <link>http://localhost:1313/posts/kredo3-20jun23/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kredo3-20jun23/</guid>
-      <description>&lt;table&gt;
-  &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo3-20jun23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo3-20jun231.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo3-20jun232.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo3-20jun233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul237.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Pertemuan Kredo ke 3 mempelajari bersama tentang pemahaman iman yang utuh akan ALLAH PUTRA sehingga kita menyatakan pengakuan iman: &lt;em&gt;Aku Percaya akan Yesus Kristus, Putra Allah Yang Tunggal Tuhan Kita, yang dikandung dari Roh Kudus, dilahirkan oleh Perawan Maria&lt;/em&gt; dengan iman mendalam, menghayatinya dengan tangguh dan teguh, dan mewartakannya dengan utuh.&lt;br&gt;
-Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 79-111 AKU PERCAYA AKAN YESUS KRISTUS, PUTRA ALLAH YANG TUNGGAL Tuhan kita (79-84)). Yesus dikandung dari Roh Kudus, dilahirkan oleh Perawan Maria (85-111). &lt;a href=&#34;http://localhost:1313/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Koor 18 Juni 2023</title>
-      <link>http://localhost:1313/posts/koor18jun23/</link>
-      <pubDate>Sun, 18 Jun 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/koor18jun23/</guid>
-      <description>&lt;table&gt;
-  &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
       &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/koor18623.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul2310.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul2311.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
     </item>
     <item>
-      <title>Paroki Mengajar: Pertemuan Kredo ke 2</title>
-      <link>http://localhost:1313/posts/kredo2-14jun23/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kredo2-14jun23/</guid>
+      <title>Misa Arwah Mengenang 3 tahun Berpulangnya Ibu Yohana Sri Hermijati</title>
+      <link>https://standreas.my.id/posts/misaarwahjohana/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misaarwahjohana/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa9jul23.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa9jul231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa9jul232.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa9jul233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paroki Mengajar: Pertemuan Kredo ke 5</title>
+      <link>https://standreas.my.id/posts/kredo5-6jul23/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/kredo5-6jul23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo2-14jun23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo5-6jul23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo2-14jun231.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Pertemuan Kredo ke 5 mempelajari bersama tentang pemahaman iman yang utuh akan &lt;em&gt;“Aku Percaya akan Yesus Kristus, yang naik ke surga, duduk di sebelah kanan Allah Bapa yang mahakuasa Dari situ, Ia akan datang mengadili orang yang hidup dan yang mati”&lt;/em&gt; sehingga kita dapat menyatakan pengakuan iman dengan mendalam, menghayatinya dengan tangguh dan teguh dan mewartakannya dengan utuh.&lt;br&gt;
+Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 132-135. Yesus naik ke surga, duduk di sebelah kanan Allah Bapa yang mahakuasa (132). Dari situ, Ia akan datang mengadili orang yang hidup dan yang mati (133-135). &lt;a href=&#34;https://standreas.my.id/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paroki Mengajar: Pertemuan Kredo ke 4</title>
+      <link>https://standreas.my.id/posts/kredo4-29jun23/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/kredo4-29jun23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo4-29jun23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo2-14jun232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo4-29jun231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo2-14jun233.avif&#34; alt=&#34;&#34;  /&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Pertemuan Kredo ke 4 mempelajari bersama tentang pemahaman iman yang utuh akan ALLAH PUTRA sehingga kita menyatakan pengakuan iman: &lt;em&gt;&amp;ldquo;Aku Percaya akan Yesus Kristus, menderita sengsara dalam pemerintahan Pontius Pilatus, Disalibkan, Wafat, dan dimakamkan, yang turun ke tempat penantian, pada hari ketiga Bangkit dari antara orang mati&amp;rdquo;&lt;/em&gt; dengan iman mendalam, menghayatinya dengan tangguh dan teguh, dan mewartakannya dengan utuh.&lt;br&gt;
+Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 112-131 Yesus Kristus menderita sengsara dalam pemerintahan Pontius Pilatus, Disalibkan, Wafat, dan dimakamkan (112-124). Yesus turun ke tempat penantian, pada hari ketiga Bangkit dari antara orang mati (125-131).&lt;a href=&#34;https://standreas.my.id/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misa Lingkungan 26 Juni 2023</title>
+      <link>https://standreas.my.id/posts/misa26jun23/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misa26jun23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun237.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2310.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2311.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2312.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2313.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2314.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2315.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2316.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Paroki Mengajar: Pertemuan Kredo ke 3</title>
+      <link>https://standreas.my.id/posts/kredo3-20jun23/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/kredo3-20jun23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo3-20jun23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo3-20jun231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo3-20jun232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo3-20jun233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Pertemuan Kredo ke 3 mempelajari bersama tentang pemahaman iman yang utuh akan ALLAH PUTRA sehingga kita menyatakan pengakuan iman: &lt;em&gt;Aku Percaya akan Yesus Kristus, Putra Allah Yang Tunggal Tuhan Kita, yang dikandung dari Roh Kudus, dilahirkan oleh Perawan Maria&lt;/em&gt; dengan iman mendalam, menghayatinya dengan tangguh dan teguh, dan mewartakannya dengan utuh.&lt;br&gt;
+Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 79-111 AKU PERCAYA AKAN YESUS KRISTUS, PUTRA ALLAH YANG TUNGGAL Tuhan kita (79-84)). Yesus dikandung dari Roh Kudus, dilahirkan oleh Perawan Maria (85-111). &lt;a href=&#34;https://standreas.my.id/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Koor 18 Juni 2023</title>
+      <link>https://standreas.my.id/posts/koor18jun23/</link>
+      <pubDate>Sun, 18 Jun 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/posts/koor18jun23/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/koor18623.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paroki Mengajar: Pertemuan Kredo ke 2</title>
+      <link>https://standreas.my.id/posts/kredo2-14jun23/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/kredo2-14jun23/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo2-14jun23.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo2-14jun231.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo2-14jun232.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo2-14jun233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Pertemuan Kredo ke 2 mempelajari bersama secara utuh akan Allah Bapa sehingga kita menyatakan pengakuan iman: &lt;em&gt;Aku percaya akan Allah Bapa Yang mahakuasa, Pencipta langit dan bumi&lt;/em&gt; dengan iman mendalam, menghayatinya dengan tangguh dan teguh, dan mewartakannya dengan utuh.&lt;br&gt;
-Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 33-78. AKU PERCAYA AKAN ALLAH BAPA: Simbol iman (33-35). Aku percaya akan Allah Bapa yang mahakuasa, Pencipta Langit dan Bumi (36-58). Surga dan Bumi (59-65). Manusia (66-72). Jatuh ke dalam dosa (73-78). &lt;a href=&#34;http://localhost:1313/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
+Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 33-78. AKU PERCAYA AKAN ALLAH BAPA: Simbol iman (33-35). Aku percaya akan Allah Bapa yang mahakuasa, Pencipta Langit dan Bumi (36-58). Surga dan Bumi (59-65). Manusia (66-72). Jatuh ke dalam dosa (73-78). &lt;a href=&#34;https://standreas.my.id/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paroki Mengajar : Pertemuan Kredo ke 1</title>
-      <link>http://localhost:1313/posts/kredo1-9jun23/</link>
+      <link>https://standreas.my.id/posts/kredo1-9jun23/</link>
       <pubDate>Fri, 09 Jun 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/kredo1-9jun23/</guid>
+      <guid>https://standreas.my.id/posts/kredo1-9jun23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo9jun23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo9jun23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo9jun231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo9jun231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo9jun232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo9jun232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo9jun233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo9jun233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/kredo9jun234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/kredo9jun234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Pertemuan Kredo pertama ini mengawali Program Paroki Mengajar.&lt;/p&gt;</description>
+&lt;p&gt;Pertemuan Kredo pertama ini mengawali Program Paroki Mengajar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tujuan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kita menyadari rencana indah Allah bagi manusia, bersyukur atas karunia akal budi dan kehendak bebas, sehingga secara tepat dimampukan menjawab panggilan Allah yang datang menjumpai kita.
+Materi pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan Kopendium Katekismus Gereja Katolik(KKGK) KKGK 1-32 &lt;a href=&#34;https://standreas.my.id/posts/KompendiumKatekismus.pdf&#34;&gt;KKGK lengkap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rencana Allah untuk manusia&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman Iman APP ke 5: Semakin Peduli Pada Jeritan Bumi Dan Sesama Yang Menderita</title>
-      <link>http://localhost:1313/posts/app28mar23/</link>
+      <link>https://standreas.my.id/posts/app28mar23/</link>
       <pubDate>Tue, 28 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app28mar23/</guid>
+      <guid>https://standreas.my.id/posts/app28mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28mar23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28mar231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28mar232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28mar234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28mar235.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28mar235.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -611,30 +1769,30 @@ Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 33-78
     </item>
     <item>
       <title>Pendalaman Iman APP ke 4: Menjaga Keutuhan Ciptaan Sebagai Panggilan Orang Beriman</title>
-      <link>http://localhost:1313/posts/app21mar23/</link>
+      <link>https://standreas.my.id/posts/app21mar23/</link>
       <pubDate>Tue, 21 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app21mar23/</guid>
+      <guid>https://standreas.my.id/posts/app21mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app21mar232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar236.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app21mar236.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar237.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app21mar237.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar238.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app21mar238.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app21mar239.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app21mar239.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -643,100 +1801,102 @@ Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 33-78
     </item>
     <item>
       <title>Pendalaman Iman APP ke 3: Berjalan Bersama dalam Kristus Mewujudkan Bumi Rumah Kita Bersama</title>
-      <link>http://localhost:1313/posts/app14mar23/</link>
+      <link>https://standreas.my.id/posts/app14mar23/</link>
       <pubDate>Tue, 14 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app14mar23/</guid>
+      <guid>https://standreas.my.id/posts/app14mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app14mar23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app14mar231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app14mar232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app14mar233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app14mar234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app14mar234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Pengantar&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Pengantar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pada tanggal 24 Mei 2015, di Basilika Santo Petrus, Paus Fransiskus mempromulgasikan ensiklik tentang perawatan bumi sebagai rumah kita bersama dengan judul Laudato Si’, Mi’ Signore – Terpujilah Engkau, ya Tuhanku. Judul ini dikutip dari salah satu Kidung St. Fransiskus Asisi. Rumusan Paus Fransiskus tentang Bumi Rumah Bersama terinspirasi oleh St. Fransiskus dari Asisi. St. Fransiskus dari Asisi melihat bumi “bagaikan saudari yang berbagi hidup dengan kita, dan seperti ibu yang jelita yang menyambut kita dengan tangan terbuka” (LS. 1). Bumi merupakan asal usul dan rumah di mana manusia tinggal, belajar, bermain, dan mengalami pertumbuhan. Bumi telah menyediakan semua kebutuhan hidup manusia itu secara cuma-cuma. Karenanya tanpa bumi manusia akan mati. Tetapi, tanpa manusia bumi tidak akan mati. Hanya dengan berada di bumi manusia dapat menyadari kodrat diri yang sesungguhnya.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman Iman APP ke 2: Berjalan Bersama Dalam Kristus</title>
-      <link>http://localhost:1313/posts/app7mar23/</link>
+      <link>https://standreas.my.id/posts/app7mar23/</link>
       <pubDate>Tue, 07 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app7mar23/</guid>
+      <guid>https://standreas.my.id/posts/app7mar23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app7mar23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app7mar231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app7mar232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app7mar233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app7mar234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar235.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app7mar235.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app7mar236.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app7mar236.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Pengantar&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Pengantar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Semangat “Berjalan Bersama dalam Kristus” merupakan buah dari permenungan bahwa perjalanan sinode Diosesan Keuskupan Purwokerto adalah sebuah Gerakan dari seluruh umat untuk berjalan bersama sebagai saudara seiman dalam Kristus. Santo Paulus dalam suratnya kepada jemaat di Kolese mengajarkan; “Hendaklah hidupmu tetap di dalam Dia. Hendaklah kamu berakar di dalam Dia dan di bangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan syukur.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pendalaman Iman APP ke 1: Mewujudkan Pertobatan Sejati</title>
-      <link>http://localhost:1313/posts/app28feb23/</link>
+      <link>https://standreas.my.id/posts/app28feb23/</link>
       <pubDate>Tue, 28 Feb 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/app28feb23/</guid>
+      <guid>https://standreas.my.id/posts/app28feb23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb231.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb232.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/app28feb234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/app28feb234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -745,6 +1905,94 @@ Materi Pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan KKGK 33-78
 Masa tobat ini mengajak kita untuk mewujudkan pertobatan sejati yang membawa kita untuk semakin lebih mangasihi sesama dan peduli pada seluruh ciptaaan.  Melalui Aksi Puasa Pembangunan (APP) yang dilaksanakan, kita ingin mewujudkan pertobatan dengan lebih peduli dan solider terhadap bumi yang menderita dan sesama yang menderita.
 Upaya kita membangun pertobatan dilaksanakan melalui tindakan bermatiraga dengan puasa dan pantang, bertekun dalam doa dan merenungkan Kitab Suci.
 Pada Pasca pandemic Covid-19, pertobatan kita juga dibangun dengan semakin tekun mengikuti Ekaristi secara langsung, menyesali dosa dan menyambut sakramen Tobat, menghadiri pendalaman Iman APP dan semakin peduli pada jeritan bumi dan sesama yang menderita.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misa Lingkungan 27 Februari 2023</title>
+      <link>https://standreas.my.id/posts/misa27feb2023/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/posts/misa27feb2023/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb233.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb234.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb237.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2311.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2314.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2315.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2316.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2317.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2318.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2319.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2320.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2321.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2322.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2323.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2324.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2325.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2326.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2327.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2328.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2329.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2330.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,59 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Info Kegiatan Lingkungan</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://standreas.my.id/categories/</link>
     <description>Recent content in Categories on Info Kegiatan Lingkungan</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Dec 2023 20:57:56 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://standreas.my.id/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Percakapan Rohani</title>
-      <link>http://localhost:1313/categories/percakapan-rohani/</link>
-      <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/percakapan-rohani/</guid>
+      <title>Pesta Pelindung</title>
+      <link>https://standreas.my.id/categories/pesta-pelindung/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/pesta-pelindung/</guid>
       <description></description>
     </item>
     <item>
-      <title>Natal 2023</title>
-      <link>http://localhost:1313/categories/natal-2023/</link>
-      <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/natal-2023/</guid>
+      <title>Ziarek</title>
+      <link>https://standreas.my.id/categories/ziarek/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/ziarek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pendalaman Sakramen</title>
+      <link>https://standreas.my.id/categories/pendalaman-sakramen/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/pendalaman-sakramen/</guid>
       <description></description>
     </item>
     <item>
       <title>Pendalaman Iman</title>
-      <link>http://localhost:1313/categories/pendalaman-iman/</link>
-      <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/pendalaman-iman/</guid>
+      <link>https://standreas.my.id/categories/pendalaman-iman/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/pendalaman-iman/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hias Altar</title>
-      <link>http://localhost:1313/categories/hias-altar/</link>
-      <pubDate>Sat, 02 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/hias-altar/</guid>
+      <title>Misa</title>
+      <link>https://standreas.my.id/categories/misa/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/misa/</guid>
       <description></description>
     </item>
     <item>
-      <title>Penyegaran Rohani</title>
-      <link>http://localhost:1313/categories/penyegaran-rohani/</link>
-      <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/penyegaran-rohani/</guid>
+      <title>Tuguran</title>
+      <link>https://standreas.my.id/categories/tuguran/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/tuguran/</guid>
       <description></description>
     </item>
     <item>
-      <title>Paroki Mengajar</title>
-      <link>http://localhost:1313/categories/paroki-mengajar/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/paroki-mengajar/</guid>
+      <title>Tata Laksana</title>
+      <link>https://standreas.my.id/categories/tata-laksana/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/tata-laksana/</guid>
       <description></description>
     </item>
     <item>
       <title>Tugas Koor</title>
-      <link>http://localhost:1313/categories/tugas-koor/</link>
-      <pubDate>Sun, 18 Jun 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/categories/tugas-koor/</guid>
+      <link>https://standreas.my.id/categories/tugas-koor/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/tugas-koor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Percakapan Rohani</title>
+      <link>https://standreas.my.id/categories/percakapan-rohani/</link>
+      <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/categories/percakapan-rohani/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natal 2023</title>
+      <link>https://standreas.my.id/categories/natal-2023/</link>
+      <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/categories/natal-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paroki Mengajar</title>
+      <link>https://standreas.my.id/categories/paroki-mengajar/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/categories/paroki-mengajar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hias Altar</title>
+      <link>https://standreas.my.id/categories/hias-altar/</link>
+      <pubDate>Sat, 02 Sep 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/categories/hias-altar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penyegaran Rohani</title>
+      <link>https://standreas.my.id/categories/penyegaran-rohani/</link>
+      <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/categories/penyegaran-rohani/</guid>
       <description></description>
     </item>
   </channel>

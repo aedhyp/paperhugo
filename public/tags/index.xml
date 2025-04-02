@@ -2,101 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Info Kegiatan Lingkungan</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://standreas.my.id/tags/</link>
     <description>Recent content in Tags on Info Kegiatan Lingkungan</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Dec 2023 20:57:56 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://standreas.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adven</title>
-      <link>http://localhost:1313/tags/adven/</link>
-      <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/adven/</guid>
+      <title>Pesta Pelindung 2024</title>
+      <link>https://standreas.my.id/tags/pesta-pelindung-2024/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/pesta-pelindung-2024/</guid>
       <description></description>
     </item>
     <item>
-      <title>Adven 2023</title>
-      <link>http://localhost:1313/tags/adven-2023/</link>
-      <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/adven-2023/</guid>
+      <title>Ziarek 2024</title>
+      <link>https://standreas.my.id/tags/ziarek-2024/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/ziarek-2024/</guid>
       <description></description>
     </item>
     <item>
-      <title>Kegiatan</title>
-      <link>http://localhost:1313/tags/kegiatan/</link>
-      <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/kegiatan/</guid>
+      <title>Sakramen</title>
+      <link>https://standreas.my.id/tags/sakramen/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/sakramen/</guid>
       <description></description>
     </item>
     <item>
-      <title>Natal</title>
-      <link>http://localhost:1313/tags/natal/</link>
-      <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/natal/</guid>
+      <title>Sakramen Perkawinan</title>
+      <link>https://standreas.my.id/tags/sakramen-perkawinan/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/sakramen-perkawinan/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bksn</title>
-      <link>http://localhost:1313/tags/bksn/</link>
-      <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/bksn/</guid>
+      <title>Bulan Liturgi Nasional</title>
+      <link>https://standreas.my.id/tags/bulan-liturgi-nasional/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/bulan-liturgi-nasional/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bksn 2023</title>
-      <link>http://localhost:1313/tags/bksn-2023/</link>
-      <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/bksn-2023/</guid>
+      <title>Misa Arwah</title>
+      <link>https://standreas.my.id/tags/misa-arwah/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/misa-arwah/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hias Altar</title>
-      <link>http://localhost:1313/tags/hias-altar/</link>
-      <pubDate>Sat, 02 Sep 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/hias-altar/</guid>
+      <title>Tuguran</title>
+      <link>https://standreas.my.id/tags/tuguran/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/tuguran/</guid>
       <description></description>
     </item>
     <item>
-      <title>Doa Rosario</title>
-      <link>http://localhost:1313/tags/doa-rosario/</link>
-      <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/doa-rosario/</guid>
+      <title>Misa St Peregrinus</title>
+      <link>https://standreas.my.id/tags/misa-st-peregrinus/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/misa-st-peregrinus/</guid>
       <description></description>
     </item>
     <item>
-      <title>Kebangsaan 2023</title>
-      <link>http://localhost:1313/tags/kebangsaan-2023/</link>
-      <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/kebangsaan-2023/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kredo</title>
-      <link>http://localhost:1313/tags/kredo/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/kredo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Koor</title>
-      <link>http://localhost:1313/tags/koor/</link>
-      <pubDate>Sun, 18 Jun 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/koor/</guid>
+      <title>Tata Laksana</title>
+      <link>https://standreas.my.id/tags/tata-laksana/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/tata-laksana/</guid>
       <description></description>
     </item>
     <item>
       <title>App</title>
-      <link>http://localhost:1313/tags/app/</link>
-      <pubDate>Tue, 28 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/app/</guid>
+      <link>https://standreas.my.id/tags/app/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App 2024</title>
+      <link>https://standreas.my.id/tags/app-2024/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/app-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Koor</title>
+      <link>https://standreas.my.id/tags/koor/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/koor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tata Laksana 2024</title>
+      <link>https://standreas.my.id/tags/tata-laksana-2024/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/tata-laksana-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tata Laksana 2023</title>
+      <link>https://standreas.my.id/tags/tata-laksana-2023/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/tata-laksana-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tata Laksana Natal 2023</title>
+      <link>https://standreas.my.id/tags/tata-laksana-natal-2023/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/tata-laksana-natal-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adven</title>
+      <link>https://standreas.my.id/tags/adven/</link>
+      <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/adven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adven 2023</title>
+      <link>https://standreas.my.id/tags/adven-2023/</link>
+      <pubDate>Tue, 19 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/adven-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kegiatan</title>
+      <link>https://standreas.my.id/tags/kegiatan/</link>
+      <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/kegiatan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natal</title>
+      <link>https://standreas.my.id/tags/natal/</link>
+      <pubDate>Sun, 17 Dec 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/natal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kunjungan Sakit Dan Manula</title>
+      <link>https://standreas.my.id/tags/kunjungan-sakit-dan-manula/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/kunjungan-sakit-dan-manula/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pesta Pelindung</title>
+      <link>https://standreas.my.id/tags/pesta-pelindung/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/pesta-pelindung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kredo</title>
+      <link>https://standreas.my.id/tags/kredo/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/kredo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bksn</title>
+      <link>https://standreas.my.id/tags/bksn/</link>
+      <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/bksn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bksn 2023</title>
+      <link>https://standreas.my.id/tags/bksn-2023/</link>
+      <pubDate>Tue, 26 Sep 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/bksn-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hias Altar</title>
+      <link>https://standreas.my.id/tags/hias-altar/</link>
+      <pubDate>Sat, 02 Sep 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/hias-altar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doa Rosario</title>
+      <link>https://standreas.my.id/tags/doa-rosario/</link>
+      <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/doa-rosario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kebangsaan 2023</title>
+      <link>https://standreas.my.id/tags/kebangsaan-2023/</link>
+      <pubDate>Fri, 25 Aug 2023 20:57:56 +0700</pubDate>
+      <guid>https://standreas.my.id/tags/kebangsaan-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misa Baptis</title>
+      <link>https://standreas.my.id/tags/misa-baptis/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/misa-baptis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misa Lingkungan</title>
+      <link>https://standreas.my.id/tags/misa-lingkungan/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://standreas.my.id/tags/misa-lingkungan/</guid>
       <description></description>
     </item>
     <item>
       <title>App 2023</title>
-      <link>http://localhost:1313/tags/app-2023/</link>
+      <link>https://standreas.my.id/tags/app-2023/</link>
       <pubDate>Tue, 28 Mar 2023 20:57:56 +0700</pubDate>
-      <guid>http://localhost:1313/tags/app-2023/</guid>
+      <guid>https://standreas.my.id/tags/app-2023/</guid>
       <description></description>
     </item>
   </channel>
