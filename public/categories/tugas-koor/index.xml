@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tugas Koor on Info Kegiatan Lingkungan</title>
-    <link>https://standreas.my.id/categories/tugas-koor/</link>
+    <link>http://localhost:1313/categories/tugas-koor/</link>
     <description>Recent content in Tugas Koor on Info Kegiatan Lingkungan</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://standreas.my.id/categories/tugas-koor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/tugas-koor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koor 3 Maret 2024</title>
-      <link>https://standreas.my.id/posts/koor3mar24/</link>
+      <link>http://localhost:1313/posts/koor3mar24/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/koor3mar24/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/koor3mar24.avif&#34; alt=&#34;&#34;  /&gt;
+      <guid>http://localhost:1313/posts/koor3mar24/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/koor3mar24.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Koor 18 Juni 2023</title>
-      <link>https://standreas.my.id/posts/koor18jun23/</link>
+      <link>http://localhost:1313/posts/koor18jun23/</link>
       <pubDate>Sun, 18 Jun 2023 20:57:56 +0700</pubDate>
-      <guid>https://standreas.my.id/posts/koor18jun23/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/koor18623.avif&#34; alt=&#34;&#34;  /&gt;
+      <guid>http://localhost:1313/posts/koor18jun23/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/koor18623.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
   </channel>

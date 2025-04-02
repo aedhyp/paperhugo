@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Misa on Info Kegiatan Lingkungan</title>
-    <link>https://standreas.my.id/categories/misa/</link>
+    <link>http://localhost:1313/categories/misa/</link>
     <description>Recent content in Misa on Info Kegiatan Lingkungan</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://standreas.my.id/categories/misa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/misa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Misa Arwah 1000 hari berpulangnya Ibu Maria Tjoe Siok Lan</title>
-      <link>https://standreas.my.id/posts/misaarwah30apr24/</link>
+      <link>http://localhost:1313/posts/misaarwah30apr24/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misaarwah30apr24/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah30apr24.avif&#34; alt=&#34;&#34;  /&gt;
+      <guid>http://localhost:1313/posts/misaarwah30apr24/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah30apr24.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Misa Arwah Mengenang 1 tahun Berpulangnya Bapak Hironimus Soedjarwo</title>
-      <link>https://standreas.my.id/posts/misaarwah22apr24/</link>
+      <link>http://localhost:1313/posts/misaarwah22apr24/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misaarwah22apr24/</guid>
+      <guid>http://localhost:1313/posts/misaarwah22apr24/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -30,38 +30,38 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr242.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr242.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr241.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr244.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr245.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr241.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr246.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr244.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr247.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr245.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr248.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr246.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr247.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr248.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr2410.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr2410.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr2411.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr2411.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr2412.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr2412.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah22apr249.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah22apr249.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -69,13 +69,13 @@
     </item>
     <item>
       <title> Misa Arwah 40 hari berpulangnya Bp. Ignatius Sugiarto</title>
-      <link>https://standreas.my.id/posts/misaarwahsugirarto/</link>
+      <link>http://localhost:1313/posts/misaarwahsugirarto/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misaarwahsugirarto/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar241.avif&#34; alt=&#34;&#34;  /&gt;
-  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar242.avif&#34; alt=&#34;&#34;  /&gt;
+      <guid>http://localhost:1313/posts/misaarwahsugirarto/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah14mar241.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah14mar242.avif&#34; alt=&#34;&#34;  /&gt;
 
-&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar245.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah14mar245.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -86,15 +86,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar24.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah14mar24.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar243.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah14mar243.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar244.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah14mar244.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misaarwah14mar246.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misaarwah14mar246.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -102,9 +102,9 @@
     </item>
     <item>
       <title>Pesta Pelindung Lingkungan St.Andreas</title>
-      <link>https://standreas.my.id/posts/pestapelindung23/</link>
+      <link>http://localhost:1313/posts/pestapelindung23/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/pestapelindung23/</guid>
+      <guid>http://localhost:1313/posts/pestapelindung23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -114,37 +114,37 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa011223.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa011223.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112231.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112232.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112235.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112236.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112237.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112238.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa0112239.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112235.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa01122310.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112236.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112237.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa0112239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa01122310.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
           &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
@@ -154,48 +154,48 @@
     </item>
     <item>
       <title>Misa Arwah mengenang 3 tahun berpulangnya Bapak Joseph Wang Suwandi Widjaya</title>
-      <link>https://standreas.my.id/posts/misaarwahjoseph/</link>
+      <link>http://localhost:1313/posts/misaarwahjoseph/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misaarwahjoseph/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa6nov23.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa6nov231.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa6nov232.avif&#34; alt=&#34;&#34;  /&gt;
+      <guid>http://localhost:1313/posts/misaarwahjoseph/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa6nov23.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa6nov231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa6nov232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Misa Arwah Mengenang 100 hari Berpulangnya Ibu Elisabeth Eli Puspawati </title>
-      <link>https://standreas.my.id/posts/misaarwaheli/</link>
+      <link>http://localhost:1313/posts/misaarwaheli/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misaarwaheli/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt23.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt231.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt232.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt233.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt234.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa28agt235.avif&#34; alt=&#34;&#34;  /&gt;
+      <guid>http://localhost:1313/posts/misaarwaheli/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa28agt23.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa28agt231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa28agt232.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa28agt233.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa28agt234.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa28agt235.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Misa Arwah Mengenang 100 hari Berpulangnya Bapak Hironimus Soedjarwo</title>
-      <link>https://standreas.my.id/posts/misaarwahsoedjarwo/</link>
+      <link>http://localhost:1313/posts/misaarwahsoedjarwo/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misaarwahsoedjarwo/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul23.avif&#34; alt=&#34;&#34;  /&gt;
-  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul231.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul232.avif&#34; alt=&#34;&#34;  /&gt;
-  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul233.avif&#34; alt=&#34;&#34;  /&gt;
-  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul234.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul235.avif&#34; alt=&#34;&#34;  /&gt;
-  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul236.avif&#34; alt=&#34;&#34;  /&gt;
-  &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul237.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa31jul238.avif&#34; alt=&#34;&#34;  /&gt;
+      <guid>http://localhost:1313/posts/misaarwahsoedjarwo/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul23.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul232.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul233.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul234.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul235.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul236.avif&#34; alt=&#34;&#34;  /&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul237.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa31jul238.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Misa Baptis Ibu Elizabeth Liliana Kusumadi</title>
-      <link>https://standreas.my.id/posts/misabaptis11jul23/</link>
+      <link>http://localhost:1313/posts/misabaptis11jul23/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misabaptis11jul23/</guid>
+      <guid>http://localhost:1313/posts/misabaptis11jul23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -205,39 +205,39 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul232.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul231.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul237.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul236.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul235.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul238.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul239.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul237.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul2310.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul236.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa11jul2311.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul235.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul2310.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa11jul2311.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -245,20 +245,20 @@
     </item>
     <item>
       <title>Misa Arwah Mengenang 3 tahun Berpulangnya Ibu Yohana Sri Hermijati</title>
-      <link>https://standreas.my.id/posts/misaarwahjohana/</link>
+      <link>http://localhost:1313/posts/misaarwahjohana/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misaarwahjohana/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa9jul23.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa9jul231.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa9jul232.avif&#34; alt=&#34;&#34;  /&gt;
- &lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa9jul233.avif&#34; alt=&#34;&#34;  /&gt;
+      <guid>http://localhost:1313/posts/misaarwahjohana/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa9jul23.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa9jul231.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa9jul232.avif&#34; alt=&#34;&#34;  /&gt;
+ &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa9jul233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Misa Lingkungan 26 Juni 2023</title>
-      <link>https://standreas.my.id/posts/misa26jun23/</link>
+      <link>http://localhost:1313/posts/misa26jun23/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misa26jun23/</guid>
+      <guid>http://localhost:1313/posts/misa26jun23/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -268,55 +268,55 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun23.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun23.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun231.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun232.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun231.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun234.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun232.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun235.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun236.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun237.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun238.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun239.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2310.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2311.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun235.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2312.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun236.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2313.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2314.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2315.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun237.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa26jun2316.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun238.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun239.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun2310.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun2311.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun2312.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun2313.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun2314.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun2315.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa26jun2316.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -325,9 +325,9 @@
     </item>
     <item>
       <title>Misa Lingkungan 27 Februari 2023</title>
-      <link>https://standreas.my.id/posts/misa27feb2023/</link>
+      <link>http://localhost:1313/posts/misa27feb2023/</link>
       <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://standreas.my.id/posts/misa27feb2023/</guid>
+      <guid>http://localhost:1313/posts/misa27feb2023/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -337,75 +337,75 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb233.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb233.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb234.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb236.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb237.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb234.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb235.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb236.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb239.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2311.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2314.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb237.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2315.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb235.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2316.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2317.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2318.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb239.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2319.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2311.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2320.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2321.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2322.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2314.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2323.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2315.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2324.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2325.avif&#34; alt=&#34;&#34;  /&gt;
-&lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2326.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2316.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2327.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2317.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2328.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2318.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2329.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2319.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
-          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://standreas.my.id/img/misa27feb2330.avif&#34; alt=&#34;&#34;  /&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2320.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2321.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2322.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2323.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2324.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2325.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2326.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2327.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2328.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2329.avif&#34; alt=&#34;&#34;  /&gt;
+&lt;/td&gt;
+          &lt;td&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/misa27feb2330.avif&#34; alt=&#34;&#34;  /&gt;
 &lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
