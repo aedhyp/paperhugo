@@ -1,7 +1,7 @@
 ---
-title: "Pesta Pelindung Lingkungan : Ziarek Lingkungan ke Gereja Ganjuran , Gua Maria Tritis"
+title: "Pesta Pelindung Lingkungan : Ziarek Lingkungan ke Gereja Ganjuran"
 date: 2025-01-30
-tags: ["ziarek 2024", "pesta pelindung 2024"]
+tags: ["ziarek 2025", "pesta pelindung 2025"]
 categories: ["ziarek", "pesta pelindung"]
 summary: "ziarek ke Ganjuran Jogja"
 cover:
