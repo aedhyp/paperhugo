@@ -11,11 +11,24 @@ cover:
   hiddeninSingle: true
 ---
 
-{{< gallery >}}
-{{< figure src="/img/IMG-20241130-WA0009.avif" alt="Foto 1" >}}
-{{< figure src="/img/IMG-20241130-WA0011.avif" alt="Foto 2" >}}
-{{< figure src="/img/IMG-20241130-WA0026.avif" alt="Ganjuran 1" >}}
-{{< figure src="/img/IMG-20241130-WA0028.avif" alt="Ganjuran 2" >}}
-{{< figure src="/img/IMG-20241130-WA0030.avif" alt="Ganjuran 3" >}}
-{{< figure src="/img/IMG-20241130-WA0032.avif" alt="Ganjuran 4" >}}
-{{< /gallery >}}
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+</style>
+
+<div class="gallery">
+  <img src="/img/IMG-20241130-WA0009.avif" alt="Foto 1">
+  <img src="/img/IMG-20241130-WA0011.avif" alt="Foto 2">
+  <img src="/img/IMG-20241130-WA0026.avif" alt="Ganjuran 1">
+  <img src="/img/IMG-20241130-WA0028.avif" alt="Ganjuran 2">
+  <img src="/img/IMG-20241130-WA0030.avif" alt="Ganjuran 3">
+  <img src="/img/IMG-20241130-WA0032.avif" alt="Ganjuran 4">
+</div>
