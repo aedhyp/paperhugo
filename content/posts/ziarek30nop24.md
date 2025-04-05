@@ -11,7 +11,7 @@ cover:
   hiddeninSingle: true
 ---
 
-berangkat pagi pagi!
+berangkat pagi pagi
 
 |                                    |                                    |
 | ---------------------------------- | ---------------------------------- |
