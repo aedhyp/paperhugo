@@ -10,3 +10,6 @@ cover:
   caption: "tanda harapan bagi saudara kita"
   hiddeninSingle: true
 ---
+
+{{< figure src="/img/adven7des23.avif" alt="Gambar 1" caption="Deskripsi Gambar 1" class="inline-image" >}}
+{{< figure src="/img/adven7des231.avif" alt="Gambar 2" caption="Deskripsi Gambar 2" class="inline-image" >}}

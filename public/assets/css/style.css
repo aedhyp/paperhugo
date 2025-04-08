@@ -1,0 +1,10 @@
+.inline-image {
+  display: inline-block;
+  margin-right: 10px; /* Atur jarak antar gambar */
+  /* Tambahkan gaya lain sesuai kebutuhan Anda, seperti lebar, tinggi, dll. */
+}
+
+/* Untuk gambar terakhir, hilangkan margin kanan agar tidak ada spasi berlebih */
+.inline-image:last-child {
+  margin-right: 0;
+}
